@@ -1,0 +1,112 @@
+---
+date: '2009-04-23 16:02:04'
+layout: post
+status: publish
+title: links for 2009-04-23
+tags:
+- Blogosphere
+---
+
+  * [The Flying Jalapeno Lives » App Store keyword search algorithm](http://www.theflyingjalapenolives.com/2009/04/app-store-keyword-search-algorithm/)
+
+
+                
+
+Interesting notes about search optimization in the App Store
+
+
+                
+            
+  * 
+                
+
+[» iPhone Application Marketing: Reviewing Current Websites :: Positive Space Blog](http://www.positivespaceblog.com/archives/iphone-application-marketing-websites/)
+
+
+                
+                
+            
+  * 
+                
+
+[Memory Management with Cocoa/WebObjects](http://www.stepwise.com/Articles/Technical/MemoryManagement.html)
+
+
+                
+
+A good article on understanding retain counts, etc. in Objective-C.
+
+
+                
+            
+  * 
+                
+
+[Finding iPhone Memory Leaks:  A “Leaks” Tool Tutorial](http://www.mobileorchard.com/find-iphone-memory-leaks-a-leaks-tool-tutorial/)
+
+
+                
+
+Excellent tutorial on using Leaks to find memory issues in iPhone apps.
+
+
+                
+            
+  * 
+                
+
+[MDNS and caffeine: How I got Bonjour running on my iPhone](http://www.tuaw.com/2007/10/22/mdns-and-caffeine-how-i-got-bonjour-running-on-my-iphone/)
+
+
+                
+
+Getting Bonjour to run on the iPhone
+
+
+                
+            
+  * 
+                
+
+[XCode templates for iPhone static libraries with unit testing | Coding Ventures](http://www.codingventures.com/2009/04/xcode-templates-for-iphone-static-libraries-with-unit-testing/)
+
+
+                
+
+Excellent article on making it easier to set up static libraries for unit testing.
+
+
+                
+            
+  * 
+                
+
+[Wizzley Presto and the Mysterious Time Machine](http://www.30daygame.com/)
+
+
+                
+
+Very intriguing article on making a pretty decent iPhone game in less than 30 days.
+
+
+                
+            
+  * 
+                
+
+[Galactica](http://www.thumbspark.com/galactica/)
+
+
+                
+
+Interesting iPhone app which animates 3K particles
+
+
+                
+            
+  * 
+                
+
+[eddit: Shop: iPhone UI Icon Set](http://eddit.com/shop/iphone_ui_icon_set/)
+
+Great set of iPhone UI icons.

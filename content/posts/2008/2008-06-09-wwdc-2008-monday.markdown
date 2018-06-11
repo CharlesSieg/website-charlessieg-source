@@ -1,0 +1,44 @@
+---
+date: '2008-06-09 22:06:02'
+layout: post
+status: publish
+title: WWDC 2008 - Monday
+tags:
+- WWDC
+---
+
+Well, today was a very good day.  So far, the WWDC has not disappointed.  I posted just about everything on my [Twitter](http://www.twitter.com/forkbender) feed, in real-time, and, to my utter surprise, Twitter did not blow up under the stress (including the thousands of others doing the same).
+
+The [iPhone 3G](http://www.apple.com/iphone/) has finally been announced.  Much of the announcement was anticipated and there were a number of disappointments for me, but more about that later.  The launch date is July 11th and the App Store will be available on that day also.  For several reasons I can't go into, the date is not a surprise to me (as I alluded to in my predictions last night).
+
+There were several amazing details in today's announcement, though.  Not enough attention has been given to these, in my view.  They are all truly incredible and bode very, very well for the iPhone and the future of Apple:
+
+
+
+	
+  * The iPhone market is now 6 countries, expanding to 70 countries over the next year.  That is a huge number.  The new markets include Canada, Mexico, Australia, India, and Japan.  Some of those countries have massive numbers of mobile phone users.  I see Japan as a particularly interesting market.  Either way, the 6 million iPhones sold in the last year will be trivial compared to the number they will sell with the 3G in this new, expanded marketplace.
+
+	
+  * Not mentioned in the keynote and not covered by NDA, there are now almost 30 million people who use Macs and Mac OS X.  In 2001 or so, that was about 2 million, maybe less.  No other platform has that kind of growth.  High school and college students across the board prefer Macs over PCs.  90% of iPhone users are extremely happy with their purchase.  All of this adds up to "it is a good time to own Apple stock" and "it is a good time to be a Mac developer".
+
+	
+  * 35% of the Fortune 500 were actively involved in the beta program for the iPhone OS 2.0.  When a presented asked "How many of you are here to learn how to program the iPhone?", almost every hand in the audience went up.  And, having sampled badges throughout the day, many Fortune 500 were represented today.  It seems that everyone is trying to figure out how to roll out iPhones in the enterprise and how to move Macs into the enterprise also.  And Apple is jumping through hoops and bending backwards to make everything work well for enterprise customers.  With Microsoft having completely fumbled with Vista, I full expect 2009 to be the year of Apple in the Enterprise.  And again, making it a very good time to be a Mac developer.
+
+
+There was also one really great item that went practically ignored by other media.  Scott Forstall announced that a push notification service would be rolled out for the iPhone in September.  Everyone has been clamoring for this functionality.  Developer-wise, it enables a whole range of applications for the iPhone that would otherwise have been impossible.  In other words, you ain't seen nothin' yet.  I think this little item is the one reason there are still jailbroken phones.  A little more information [here](http://www.appleinsider.com/articles/08/06/09/apple_tackles_iphone_background_app_limits_with_push_service.html) from AppleInsider.
+
+I also attended the Mac OS X State of the Union session, the Developer Tools State of the Union session, and the Graphics and Media State of the Union session.  All of these are covered under NDA but I have the following thoughts:
+
+
+
+	
+  * Apple has really already overtaken Microsoft in terms of a mature, stable, and secure operating system.  Vista is just garbage, as everyone knows.  It will be several years before they can try again and that is a stretch.  They just don't have any momentum.  Meanwhile, Apple releases new OS build every 12-18 months and they are all well-received.  The next version will be even more stable and will improve on all of its other strengths.  When the new OS, called "Snow Leopard", comes out, Microsoft will no longer be a viable competitor in the operating system market.  The reasons will be obvious to all and major changes will begin to happen across the industry.  I predict a ton of new Mac developer jobs and consulting gigs, and lots of work for those who can help port existing Windows apps over to Mac OS.  Server apps will not go so quickly and Microsoft will continue to excel in this area with server products like SQL Server, Exchange, and Windows Server X.  A service-oriented architecture will become even more important since the client applications are very likely to be either browsers or Mac OS or iPhone native applications.
+
+	
+  * As much as I like Visual Studio as an IDE, XCode does have some nice features.  But more than anything, it's simply amazing how easy it is to quickly build elegant and powerful applications with XCode.  And building an application for Mac and moving it to the iPhone is practically trivial, a matter of minutes for the most part.  Even using Dashcode to build iPhone web applications is exceedingly simple.  I'll be spending a lot of time in other sessions picking up these tools.
+
+	
+  * If you were to learn one area of Mac development and really invest in deepening your knowledge and mastering a technology, it should really be Core Animation.  Those who master it write applications that make them look like gods among men.  The funny thing is, Core Animation is actually very simple and easy to learn.  I think people are afraid of it, it looks so impressive that the immediate thought is that it must be very complex.  I will be spending a ton of time with Core Animation this week and in coming weeks (and I already know a lot about it and use it throughout my iPhone app).
+
+
+All in all, the first day was very informative and very reassuring.  I feel very good about the choices I have made and the investment of time I have made in learning Objective-C and the Mac as a whole.  Apple is going nowhere but up, taking all of us Mac developers with it.

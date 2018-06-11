@@ -1,0 +1,88 @@
+---
+date: '2009-11-01 17:04:37'
+layout: post
+status: publish
+title: links for 2009-11-01
+tags:
+- Blogosphere
+---
+
+* [Pricing for PO Box and Mail Forwarding Alternatives | Earth Class Mail](http://www.earthclassmail.com/pricing) Postal mail online; they do deposits of checks, etc.
+
+* [Jackson Fish Market](http://www.jacksonfish.com/) They make interesting children's games / apps for the iPhone.
+        
+* [Notepod: The sketchbook for your app ideas](http://notepod.net/)
+
+* [Podcast Interview: Marcus Zarra / Core Animation](http://www.mobileorchard.com/podcast-interview-marcus-zarra-core-animation/)
+
+* [YouTube - Incredible, amazing, awesome Apple](http://www.youtube.com/watch?v=Nx7v815bYUw) Great video cut showing the use of superlatives in Apple keynotes
+
+* [Optimizing the loading of a very large table on the iPhone](http://cocoawithlove.com/2009/09/optimizing-loading-of-very-large-table.html)
+          
+* [Lucid Dreaming: A Beginner’s Guide](http://www.fourhourworkweek.com/blog/2009/09/21/how-to-lucid-dream/)
+
+* [How to Hold Your Breath Like David Blaine, World Record Holder (and Now, Me)](http://www.fourhourworkweek.com/blog/2009/10/30/how-to-hold-your-breath/)
+
+* [Animating a window to fullscreen on the Mac](http://cocoawithlove.com/2009/08/animating-window-to-fullscreen-on-mac.html)
+            
+* [Creating alpha masks from text on the iPhone and Mac](http://cocoawithlove.com/2009/09/creating-alpha-masks-from-text-on.html)
+
+* [How Should Mac Apps Be Distributed?](http://daringfireball.net/2009/09/how_should_mac_apps_be_distributed)
+
+* [potionfactory's LetsMove at master - GitHub](http://github.com/potionfactory/LetsMove/) Make it more clear that the app is moving to ~/Applications by saying so in the message text of the dialog window
+            
+* [WhereIsMyMac, a Snow Leopard CoreLocation project](http://cocoawithlove.com/2009/09/whereismymac-snow-leopard-corelocation.html)
+          
+* [Introduction to MapKit in iPhone OS 3.0](http://icodeblog.com/2009/09/15/introduction-to-mapkit-in-iphone-os-3-0/)
+          
+* [Lichborne: Death knight leveling 68-80](http://www.wow.com/2009/10/05/lichborne-death-knight-leveling-68-80/) Leveling a death knight to 80
+           
+* [The Light and How to Swing It: Levels 71-80](http://www.wow.com/2009/08/16/the-light-and-how-to-swing-it-levels-71-80/) Leveling a paladin to 80
+
+* [U.S. Submarines designs underwater luxury with Ashlar's Graphite - Core77](http://www.core77.com/blog/object_culture/us_submarines_designs_underwater_luxury_with_ashlars_graphite_14887.asp)
+            
+* [Pimp My Code, Part 17: Lost in Translations.](http://wilshipley.com/blog/2009/10/pimp-my-code-part-17-lost-in.html)
+
+* [What Startups Are Really Like](http://www.paulgraham.com/really.html) Interesting article on startups, particularly cofounder relationships, etc.
+          
+* [10 Useful WordPress Hook Hacks](http://www.smashingmagazine.com/2009/08/18/10-useful-wordpress-hook-hacks/)          
+* [Effective Twitter Backgrounds: Examples and Current Practices](http://www.smashingmagazine.com/2009/09/18/effective-twitter-backgrounds-examples-and-best-practices/)
+         
+*  [Map of Connectedness](http://www.newscientist.com/data/images/ns/cms/mg20227041.500/mg20227041.500-1_1000.jpg) If you want to live "off grid", the dark spots will get you there.
+
+* [Back-to-School With 40 Excellent Adobe Illustrator Tutorials](http://www.smashingmagazine.com/2009/09/23/back-to-school-with-40-excellent-adobe-illustrator-tutorials/)
+          
+* [Call to Action Buttons: Examples and Best Practices](http://www.smashingmagazine.com/2009/10/13/call-to-action-buttons-examples-and-best-practices/)
+          
+* [Showcase of Web Design in Ireland](http://www.smashingmagazine.com/2009/10/23/showcase-of-web-design-in-ireland-2/)
+            
+* [iPhone App Site Design Trends](http://www.webdesignerwall.com/trends/iphone-app-site-design-trends/)
+            
+* [Showcase of Web Design in Russia](http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/)
+          
+* [Marching Ants With Core Animation](http://www.cimgf.com/2009/10/20/marching-ants-with-core-animation/)
+
+* [iPhone App Design Trends](http://www.smashingmagazine.com/2009/10/09/iphone-app-design-trends/)
+        
+* [Showcase of Fresh and Well-Designed Online Shops](http://www.smashingmagazine.com/2009/09/05/showcase-of-fresh-and-well-designed-online-shops/)
+
+* [Convert first month sales](http://www.taptaptap.com/blog/convert-first-month-sales/) Sales of tap tap tap's Convert app
+          
+* [50 Useful New jQuery Techniques and Tutorials](http://www.smashingmagazine.com/2009/08/23/50-useful-new-jquery-techniques/)
+          
+* [New In iPhone 3.0 Part 6: Map Kit / Bill Dudney Interview](http://www.mobileorchard.com/new-in-iphone-30-part-6-map-kit-bill-dudney-interview/)
+             
+* [Tutorial: Detecting When A User Blows Into The Mic](http://www.mobileorchard.com/tutorial-detecting-when-a-user-blows-into-the-mic/)
+            
+* [Roasted Garlic & New Potatoes](http://thepioneerwoman.com/cooking/2009/10/roasted-garlic-new-potatoes/)
+
+            
+* [Moist Pumpkin Spice Muffins (With Cream Cheese Frosting)](http://thepioneerwoman.com/cooking/2009/10/moist-pumpkin-spice-muffins-with-cream-cheese-frosting/)
+            
+* [Buttered Rosemary Rolls](http://thepioneerwoman.com/cooking/2009/10/buttered-rosemary-rolls/)
+
+            
+* [Exit Strategy NYC: Press](http://www.exitstrategynyc.com/press.html) Marketing research; these guys do a great job launching their products and getting proper press coverage
+
+            
+* [Fusion Ads](http://fusionads.net/) Solid ads for iPhone and Mac apps

@@ -1,0 +1,11 @@
+---
+date: '2005-09-15 17:54:00'
+layout: post
+slug: aw-man
+status: publish
+title: Aw, Man
+wordpress_id: '111'
+---
+
+Unbelievably, Stifler and I have the same [birthday](http://en.wikipedia.org/wiki/Seann_William_Scott).
+

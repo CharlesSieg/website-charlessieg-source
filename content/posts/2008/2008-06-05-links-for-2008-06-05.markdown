@@ -1,0 +1,12 @@
+---
+date: '2008-06-05 16:38:02'
+layout: post
+status: publish
+title: links for 2008-06-05
+tags:
+- Blogosphere
+---
+	
+* [General Motors Gives Green Light to Volt](http://www.chicagotribune.com/business/chi-chevy-volt-080603-ht,0,5286562.story)
+
+GM finally got around to sending their electric car - Volt - to the production line.  The first models are due in showrooms in 2010.

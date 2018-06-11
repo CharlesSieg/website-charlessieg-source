@@ -1,0 +1,11 @@
+---
+date: '2003-11-13 12:12:00'
+layout: post
+slug: ice-hunt
+status: publish
+title: Ice Hunt
+wordpress_id: '272'
+---
+
+A futuristic story (thus far) about a submarine cruising the polar ice cap which finds a hidden underwater submarine base (perhaps Russian) which contains life.
+

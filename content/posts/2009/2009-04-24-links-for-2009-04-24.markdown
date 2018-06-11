@@ -1,0 +1,10 @@
+---
+date: '2009-04-24 16:02:03'
+layout: post
+status: publish
+title: links for 2009-04-24
+tags:
+- Blogosphere
+---
+
+* [Snow Leopard Server to offer low cost, secure mobile access to iPhone](http://www.appleinsider.com/articles/09/04/24/snow_leopard_server_to_offer_low_cost_secure_mobile_access_to_iphone.html) A very interesting proposition for Small Business

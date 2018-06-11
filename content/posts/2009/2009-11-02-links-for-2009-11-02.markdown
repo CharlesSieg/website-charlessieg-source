@@ -1,0 +1,10 @@
+---
+date: '2009-11-02 17:02:34'
+layout: post
+status: publish
+title: links for 2009-11-02
+tags:
+- Blogosphere
+---
+
+ * [Ember](http://emberapp.com/) Excellent design inspiration website.
