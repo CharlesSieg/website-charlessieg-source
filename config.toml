@@ -1,0 +1,4 @@
+baseurl = "https://staging.charlessieg.com/"
+languageCode = "en-us"
+title = "Charles Sieg - Staging"
+theme = "ananke"

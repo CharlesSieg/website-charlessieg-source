@@ -1,0 +1,17 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - pip install Pygments
+      - wget https://github.com/gohugoio/hugo/releases/download/v0.41/hugo_0.41_Linux-64bit.deb
+      - dpkg -i hugo_0.41_Linux-64bit.deb
+  build:
+    commands:
+      - echo Build started on `date`
+      - hugo
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo Copying to S3 bucket...
+      - aws s3 sync --delete public/ s3://staging.charlessieg.com/ --cache-control max-age=3600
