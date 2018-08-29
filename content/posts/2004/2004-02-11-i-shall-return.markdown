@@ -2,7 +2,7 @@
 date: '2004-02-11 00:14:00'
 layout: post
 slug: i-shall-return
-status: publish
+draft: false
 title: I Shall Return
 wordpress_id: '246'
 tags:

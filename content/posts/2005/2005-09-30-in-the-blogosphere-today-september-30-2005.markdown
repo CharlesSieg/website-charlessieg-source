@@ -2,7 +2,7 @@
 date: '2005-09-30 14:00:00'
 layout: post
 slug: in-the-blogosphere-today-september-30-2005
-status: publish
+draft: false
 title: In the Blogosphere Today - September 30, 2005
 wordpress_id: '410'
 tags:

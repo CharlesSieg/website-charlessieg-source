@@ -2,7 +2,7 @@
 date: '2003-08-28 15:24:00'
 layout: post
 slug: a-universal-truth
-status: publish
+draft: false
 title: A Universal Truth
 wordpress_id: '321'
 ---

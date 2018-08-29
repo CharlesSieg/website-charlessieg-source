@@ -2,7 +2,7 @@
 date: '2004-06-21 23:44:00'
 layout: post
 slug: one-for-the-money
-status: publish
+draft: false
 title: One for the Money
 wordpress_id: '205'
 ---

@@ -2,7 +2,7 @@
 date: '2005-09-15 17:56:00'
 layout: post
 slug: bonus
-status: publish
+draft: false
 title: Bonus!
 wordpress_id: '110'
 ---

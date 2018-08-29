@@ -2,7 +2,7 @@
 date: '2003-10-03 14:03:00'
 layout: post
 slug: rear-window-wipers
-status: publish
+draft: false
 title: Rear window wipers
 wordpress_id: '298'
 ---

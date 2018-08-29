@@ -2,7 +2,7 @@
 date: '2004-01-12 14:12:00'
 layout: post
 slug: 2004-new-years-resolutions
-status: publish
+draft: false
 title: 2004 New Year's Resolutions
 wordpress_id: '256'
 tags:

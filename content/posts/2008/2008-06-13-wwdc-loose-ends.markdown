@@ -1,7 +1,7 @@
 ---
 date: '2008-06-13 14:35:33'
 layout: post
-status: publish
+draft: false
 title: WWDC Loose Ends
 tags:
 - WWDC

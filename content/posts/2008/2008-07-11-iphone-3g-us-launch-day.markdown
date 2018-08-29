@@ -1,7 +1,7 @@
 ---
 date: '2008-07-11 08:54:19'
 layout: post
-status: publish
+draft: false
 title: iPhone 3G US Launch Day
 tags:
 - Apple

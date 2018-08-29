@@ -2,7 +2,7 @@
 date: '2003-10-03 19:04:00'
 layout: post
 slug: finding-prime-numbers-with-c
-status: publish
+draft: false
 title: Finding Prime Numbers with C#
 wordpress_id: '12'
 tags:

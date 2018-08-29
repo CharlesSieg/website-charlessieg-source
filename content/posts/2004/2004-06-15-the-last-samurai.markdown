@@ -2,7 +2,7 @@
 date: '2004-06-15 10:25:00'
 layout: post
 slug: the-last-samurai
-status: publish
+draft: false
 title: The Last Samurai
 wordpress_id: '207'
 ---

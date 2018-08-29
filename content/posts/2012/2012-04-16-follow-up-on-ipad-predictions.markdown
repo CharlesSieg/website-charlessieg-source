@@ -1,7 +1,7 @@
 ---
 date: '2012-04-16 08:36:07'
 layout: post
-status: publish
+draft: false
 title: Follow Up on iPad Predictions
 tags:
 - Apple

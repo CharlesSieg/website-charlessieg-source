@@ -2,7 +2,7 @@
 date: '2004-01-20 09:44:00'
 layout: post
 slug: the-big-blue
-status: publish
+draft: false
 title: The Big Blue
 wordpress_id: '254'
 ---

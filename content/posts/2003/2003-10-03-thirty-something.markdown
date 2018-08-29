@@ -2,7 +2,7 @@
 date: '2003-10-03 14:00:00'
 layout: post
 slug: thirty-something
-status: publish
+draft: false
 title: Thirty-something
 wordpress_id: '299'
 ---

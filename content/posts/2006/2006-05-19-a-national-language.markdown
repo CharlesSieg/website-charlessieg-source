@@ -2,7 +2,7 @@
 date: '2006-05-19 09:16:00'
 layout: post
 slug: a-national-language
-status: publish
+draft: false
 title: A National Language
 wordpress_id: '465'
 ---

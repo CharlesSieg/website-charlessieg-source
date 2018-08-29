@@ -2,7 +2,7 @@
 date: '2003-10-03 19:04:00'
 layout: post
 slug: manually-removing-a-vignette-installation
-status: publish
+draft: false
 title: Manually Removing a Vignette Installation
 wordpress_id: '11'
 tags:

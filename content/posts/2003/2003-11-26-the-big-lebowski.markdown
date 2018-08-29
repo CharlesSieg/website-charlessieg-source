@@ -2,7 +2,7 @@
 date: '2003-11-26 18:18:00'
 layout: post
 slug: the-big-lebowski
-status: publish
+draft: false
 title: The Big Lebowski
 wordpress_id: '267'
 ---

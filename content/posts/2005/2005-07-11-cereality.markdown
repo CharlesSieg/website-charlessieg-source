@@ -2,7 +2,7 @@
 date: '2005-07-11 11:02:00'
 layout: post
 slug: cereality
-status: publish
+draft: false
 title: Cereality
 wordpress_id: '129'
 ---

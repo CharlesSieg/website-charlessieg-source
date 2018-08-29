@@ -2,7 +2,7 @@
 date: '2005-08-18 17:37:00'
 layout: post
 slug: diy-bookcase
-status: publish
+draft: false
 title: DIY Bookcase
 wordpress_id: '119'
 ---

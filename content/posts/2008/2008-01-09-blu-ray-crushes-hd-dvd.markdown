@@ -1,7 +1,7 @@
 ---
 date: '2008-01-09 08:15:00'
 layout: post
-status: publish
+draft: false
 title: Blu-ray Crushes HD DVD!!!
 tags:
 - Movies and TV

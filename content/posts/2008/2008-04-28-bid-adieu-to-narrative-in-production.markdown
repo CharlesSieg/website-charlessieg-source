@@ -1,7 +1,7 @@
 ---
 date: '2008-04-28 15:22:08'
 layout: post
-status: publish
+draft: false
 title: Bid Adieu to Narrative in Production
 tags:
 - Narrative

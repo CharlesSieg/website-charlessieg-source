@@ -2,7 +2,7 @@
 date: '2003-10-13 11:49:00'
 layout: post
 slug: the-new-look
-status: publish
+draft: false
 title: The New Look
 wordpress_id: '287'
 tags:

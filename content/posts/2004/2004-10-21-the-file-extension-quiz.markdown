@@ -2,7 +2,7 @@
 date: '2004-10-21 12:57:00'
 layout: post
 slug: the-file-extension-quiz
-status: publish
+draft: false
 title: The File Extension Quiz
 wordpress_id: '161'
 ---

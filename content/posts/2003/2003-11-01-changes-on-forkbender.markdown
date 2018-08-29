@@ -2,7 +2,7 @@
 date: '2003-11-01 01:24:00'
 layout: post
 slug: changes-on-forkbender
-status: publish
+draft: false
 title: Changes on ForkBender
 wordpress_id: '275'
 tags:

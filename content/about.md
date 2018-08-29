@@ -3,7 +3,7 @@ layout: page
 title: About Me
 date: 2013-06-03
 permalink: about.html
-status: publish
+draft: false
 ---
 
 I am the founder and president of [Renkara Media Group](http://www.renkara.com). We build [AccelaStudy](http://www.accelastudy.com), an accelerated learning platform with millions of users.

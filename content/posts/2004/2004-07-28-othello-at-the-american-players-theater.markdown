@@ -2,7 +2,7 @@
 date: '2004-07-28 12:36:00'
 layout: post
 slug: othello-at-the-american-players-theater
-status: publish
+draft: false
 title: Othello at the American Players Theater
 wordpress_id: '187'
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2008-07-11 09:26:06'
 layout: post
-status: publish
+draft: false
 title: Uh Oh for Apple
 tags:
 - Apple

@@ -1,7 +1,7 @@
 ---
 date: '2008-06-09 19:33:30'
 layout: post
-status: publish
+draft: false
 title: Zazzle Comes Through
 tags:
 - WWDC

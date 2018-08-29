@@ -2,7 +2,7 @@
 date: '2004-12-12 01:48:00'
 layout: post
 slug: stifler-in-the-wikipedia
-status: publish
+draft: false
 title: Stifler in the Wikipedia
 wordpress_id: '149'
 ---

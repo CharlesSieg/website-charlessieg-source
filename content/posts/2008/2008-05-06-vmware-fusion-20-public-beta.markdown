@@ -1,7 +1,7 @@
 ---
 date: '2008-05-06 17:34:20'
 layout: post
-status: publish
+draft: false
 title: VMware Fusion 2.0 Public Beta
 tags:
 - Blogosphere

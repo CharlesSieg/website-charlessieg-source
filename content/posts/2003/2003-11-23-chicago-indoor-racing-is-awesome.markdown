@@ -2,7 +2,7 @@
 date: '2003-11-23 23:08:00'
 layout: post
 slug: chicago-indoor-racing-is-awesome
-status: publish
+draft: false
 title: Chicago Indoor Racing is Awesome!
 wordpress_id: '268'
 ---

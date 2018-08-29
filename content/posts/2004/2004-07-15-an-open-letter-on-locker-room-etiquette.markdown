@@ -2,7 +2,7 @@
 date: '2004-07-15 00:37:00'
 layout: post
 slug: an-open-letter-on-locker-room-etiquette
-status: publish
+draft: false
 title: An Open Letter on Locker Room Etiquette
 wordpress_id: '191'
 ---

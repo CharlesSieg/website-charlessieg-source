@@ -2,7 +2,7 @@
 date: '2003-06-04 22:04:00'
 layout: post
 slug: imax-is-coming
-status: publish
+draft: false
 title: IMAX is Coming!!!
 wordpress_id: '350'
 ---

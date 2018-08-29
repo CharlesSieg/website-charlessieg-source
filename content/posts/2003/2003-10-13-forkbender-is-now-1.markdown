@@ -2,7 +2,7 @@
 date: '2003-10-13 11:50:00'
 layout: post
 slug: forkbender-is-now-1
-status: publish
+draft: false
 title: 'ForkBender is now #1'
 wordpress_id: '286'
 tags:

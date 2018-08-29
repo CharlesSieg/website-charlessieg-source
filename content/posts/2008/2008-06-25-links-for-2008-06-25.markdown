@@ -1,7 +1,7 @@
 ---
 date: '2008-06-25 16:35:59'
 layout: post
-status: publish
+draft: false
 title: links for 2008-06-25
 tags:
 - Blogosphere

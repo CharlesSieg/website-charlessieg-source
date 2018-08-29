@@ -2,7 +2,7 @@
 date: '2005-08-05 17:51:00'
 layout: post
 slug: a-neat-place-to-swim
-status: publish
+draft: false
 title: A Neat Place to Swim
 wordpress_id: '121'
 tags:

@@ -2,7 +2,7 @@
 date: '2005-07-11 12:27:00'
 layout: post
 slug: google-maps-fusion
-status: publish
+draft: false
 title: Google Maps Fusion
 wordpress_id: '128'
 ---

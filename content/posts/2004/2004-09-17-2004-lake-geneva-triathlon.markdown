@@ -2,7 +2,7 @@
 date: '2004-09-17 12:12:00'
 layout: post
 slug: 2004-lake-geneva-triathlon
-status: publish
+draft: false
 title: 2004 Lake Geneva Triathlon
 wordpress_id: '174'
 tags:

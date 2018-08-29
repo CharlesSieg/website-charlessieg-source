@@ -2,7 +2,7 @@
 date: '2003-10-17 10:39:00'
 layout: post
 slug: the-woman-in-the-old-navy-commercials
-status: publish
+draft: false
 title: The Woman in the Old Navy Commercials
 wordpress_id: '280'
 ---

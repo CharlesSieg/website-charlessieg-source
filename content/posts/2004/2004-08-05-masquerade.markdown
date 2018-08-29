@@ -2,7 +2,7 @@
 date: '2004-08-05 09:59:00'
 layout: post
 slug: masquerade
-status: publish
+draft: false
 title: Masquerade
 wordpress_id: '184'
 ---

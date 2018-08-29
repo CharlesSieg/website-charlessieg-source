@@ -2,7 +2,7 @@
 date: '2004-01-12 11:47:00'
 layout: post
 slug: happy-new-year
-status: publish
+draft: false
 title: Happy New Year!
 wordpress_id: '260'
 ---

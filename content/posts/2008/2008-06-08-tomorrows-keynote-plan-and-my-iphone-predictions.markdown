@@ -1,7 +1,7 @@
 ---
 date: '2008-06-08 23:08:30'
 layout: post
-status: publish
+draft: false
 title: Tomorrow's Keynote Plan and my iPhone Predictions
 tags:
 - WWDC

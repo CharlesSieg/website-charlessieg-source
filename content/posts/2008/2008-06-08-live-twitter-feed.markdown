@@ -1,7 +1,7 @@
 ---
 date: '2008-06-08 13:10:19'
 layout: post
-status: publish
+draft: false
 title: Live Twitter Feed
 tags:
 - WWDC

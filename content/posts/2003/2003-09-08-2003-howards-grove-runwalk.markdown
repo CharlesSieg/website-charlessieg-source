@@ -1,7 +1,7 @@
 ---
 date: '2003-09-08 21:47:00'
 layout: post
-status: publish
+draft: false
 title: 2003 Howard's Grove Run/Walk
 ---
 

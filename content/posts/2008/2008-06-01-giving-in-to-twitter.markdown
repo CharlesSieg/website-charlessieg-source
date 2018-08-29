@@ -1,7 +1,7 @@
 ---
 date: '2008-06-01 18:43:40'
 layout: post
-status: publish
+draft: false
 title: Giving In to Twitter
 tags:
 - Apple

@@ -2,7 +2,7 @@
 date: '2005-02-16 22:45:00'
 layout: post
 slug: i-am-the-king-nerd-god
-status: publish
+draft: false
 title: I Am the King Nerd God
 wordpress_id: '147'
 ---

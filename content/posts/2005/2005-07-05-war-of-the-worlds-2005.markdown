@@ -2,7 +2,7 @@
 date: '2005-07-05 11:07:00'
 layout: post
 slug: war-of-the-worlds-2005
-status: publish
+draft: false
 title: War of the Worlds (2005)
 wordpress_id: '132'
 tags:

@@ -2,7 +2,7 @@
 date: '2003-05-27 23:30:00'
 layout: post
 slug: improving-the-site
-status: publish
+draft: false
 title: Improving the site
 tags:
 - Narrative

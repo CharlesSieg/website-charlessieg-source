@@ -2,7 +2,7 @@
 date: '2005-09-25 22:19:00'
 layout: post
 slug: door-county-weekend
-status: publish
+draft: false
 title: Door County Weekend
 wordpress_id: '397'
 ---

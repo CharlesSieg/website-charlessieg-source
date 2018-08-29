@@ -1,7 +1,7 @@
 ---
 date: '2008-01-16 08:30:00'
 layout: post
-status: publish
+draft: false
 title: Blockbuster Stock Crushed
 tags:
 - Apple

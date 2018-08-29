@@ -2,7 +2,7 @@
 date: '2004-03-08 10:18:00'
 layout: post
 slug: states-in-the-us-i-have-been-to
-status: publish
+draft: false
 title: States in the U.S. I Have Been To
 wordpress_id: '226'
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2006-09-11 08:44:00'
 layout: post
-status: publish
+draft: false
 title: A Site Redesign
 tags:
 - Narrative

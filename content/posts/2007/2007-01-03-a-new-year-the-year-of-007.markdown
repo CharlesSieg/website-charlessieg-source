@@ -1,7 +1,7 @@
 ---
 date: '2007-01-03 20:25:00'
 layout: post
-status: publish
+draft: false
 title: A New Year, the Year of 007
 tags:
 - 52 New Foods

@@ -2,7 +2,7 @@
 date: '2004-12-11 23:54:00'
 layout: post
 slug: lake-effect-snow
-status: publish
+draft: false
 title: Lake Effect Snow
 wordpress_id: '153'
 ---

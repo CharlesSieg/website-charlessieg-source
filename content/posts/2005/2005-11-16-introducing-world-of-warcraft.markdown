@@ -1,7 +1,7 @@
 ---
 date: '2005-11-16 10:56:00'
 layout: post
-status: publish
+draft: false
 title: Introducing World of Warcraft
 tags:
 - Gaming

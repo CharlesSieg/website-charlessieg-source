@@ -1,7 +1,7 @@
 ---
 date: '2008-05-02 15:21:58'
 layout: post
-status: publish
+draft: false
 title: FireWire 400/800 vs. USB 2.0 for Virtual Machine Use
 tags:
 - Apple

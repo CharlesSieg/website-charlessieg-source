@@ -3,7 +3,7 @@ layout: page
 title: CV
 date: 2016-02-05
 permalink: /cv/index.html
-status: publish
+draft: false
 ---
 
 ## Executive Summary

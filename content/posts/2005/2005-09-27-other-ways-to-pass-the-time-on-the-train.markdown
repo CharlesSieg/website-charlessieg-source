@@ -2,7 +2,7 @@
 date: '2005-09-27 10:22:00'
 layout: post
 slug: other-ways-to-pass-the-time-on-the-train
-status: publish
+draft: false
 title: Other Ways to Pass the Time on the Train
 wordpress_id: '401'
 tags:

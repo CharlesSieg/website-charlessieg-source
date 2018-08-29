@@ -1,7 +1,7 @@
 ---
 date: '2008-03-07 19:36:00'
 layout: post
-status: publish
+draft: false
 title: MacBook Pro Ultimate in Alaska
 tags:
 - Apple

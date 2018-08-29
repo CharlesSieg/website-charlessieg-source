@@ -1,7 +1,6 @@
 ---
 date: 2015-12-31
 layout: post
-status: publish
 title: "Renkara Offices - 2015 Retrospective"
 tags:
 - Office

@@ -2,7 +2,7 @@
 date: '2005-09-15 17:54:00'
 layout: post
 slug: aw-man
-status: publish
+draft: false
 title: Aw, Man
 wordpress_id: '111'
 ---

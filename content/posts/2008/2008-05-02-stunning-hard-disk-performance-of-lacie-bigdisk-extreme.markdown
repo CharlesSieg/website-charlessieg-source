@@ -1,7 +1,7 @@
 ---
 date: '2008-05-02 16:49:30'
 layout: post
-status: publish
+draft: false
 title: Stunning Hard Disk Performance of LaCie BigDisk Extreme+
 tags:
 - Apple

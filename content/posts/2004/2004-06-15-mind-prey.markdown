@@ -2,7 +2,7 @@
 date: '2004-06-15 10:42:00'
 layout: post
 slug: mind-prey
-status: publish
+draft: false
 title: Mind Prey
 wordpress_id: '206'
 ---

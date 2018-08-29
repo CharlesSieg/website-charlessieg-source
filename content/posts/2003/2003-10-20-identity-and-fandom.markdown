@@ -2,7 +2,7 @@
 date: '2003-10-20 14:09:00'
 layout: post
 slug: identity-and-fandom
-status: publish
+draft: false
 title: Identity and Fandom
 wordpress_id: '278'
 ---

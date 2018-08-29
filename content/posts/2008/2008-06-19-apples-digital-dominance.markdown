@@ -1,7 +1,7 @@
 ---
 date: '2008-06-19 15:05:51'
 layout: post
-status: publish
+draft: false
 title: Apple's Digital Dominance
 tags:
 - Apple

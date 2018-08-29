@@ -1,7 +1,7 @@
 ---
 date: '2006-05-16 08:12:00'
 layout: post
-status: publish
+draft: false
 title: Mission Impossible 3
 tags:
 - Movies and TV

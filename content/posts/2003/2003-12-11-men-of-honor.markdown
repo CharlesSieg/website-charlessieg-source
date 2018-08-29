@@ -2,7 +2,7 @@
 date: '2003-12-11 10:25:00'
 layout: post
 slug: men-of-honor
-status: publish
+draft: false
 title: Men of Honor
 wordpress_id: '265'
 ---

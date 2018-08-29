@@ -2,7 +2,7 @@
 date: '2003-10-15 11:37:00'
 layout: post
 slug: the-creed-of-the-sociopathic-obsessive-compulsive
-status: publish
+draft: false
 title: The Creed of the Sociopathic Obsessive Compulsive
 wordpress_id: '284'
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2008-01-15 20:22:00'
 layout: post
-status: publish
+draft: false
 title: Thoughts on the MacBook Air
 tags:
 - Apple

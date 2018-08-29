@@ -1,7 +1,7 @@
 ---
 date: '2005-12-16 17:48:00'
 layout: post
-status: publish
+draft: false
 title: GMail Now Truly Mobile
 tags:
 - Productivity

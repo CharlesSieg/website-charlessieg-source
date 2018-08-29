@@ -2,7 +2,7 @@
 date: '2004-12-09 23:05:00'
 layout: post
 slug: ebay-madness
-status: publish
+draft: false
 title: eBay Madness
 wordpress_id: '159'
 ---

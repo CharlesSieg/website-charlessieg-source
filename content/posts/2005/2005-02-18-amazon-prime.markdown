@@ -2,7 +2,7 @@
 date: '2005-02-18 15:13:00'
 layout: post
 slug: amazon-prime
-status: publish
+draft: false
 title: Amazon Prime
 wordpress_id: '143'
 ---

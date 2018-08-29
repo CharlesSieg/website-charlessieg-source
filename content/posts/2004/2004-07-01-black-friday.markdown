@@ -2,7 +2,7 @@
 date: '2004-07-01 11:05:00'
 layout: post
 slug: black-friday
-status: publish
+draft: false
 title: Black Friday
 wordpress_id: '202'
 ---

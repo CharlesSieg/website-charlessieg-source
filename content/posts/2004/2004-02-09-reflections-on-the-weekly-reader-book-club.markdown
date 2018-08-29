@@ -2,7 +2,7 @@
 date: '2004-02-09 10:12:00'
 layout: post
 slug: reflections-on-the-weekly-reader-book-club
-status: publish
+draft: false
 title: Reflections on the Weekly Reader Book Club
 wordpress_id: '248'
 ---

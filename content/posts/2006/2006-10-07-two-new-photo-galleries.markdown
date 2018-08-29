@@ -1,7 +1,7 @@
 ---
 date: '2006-10-07 19:43:00'
 layout: post
-status: publish
+draft: false
 title: Two New Photo Galleries
 tags:
 - Photos

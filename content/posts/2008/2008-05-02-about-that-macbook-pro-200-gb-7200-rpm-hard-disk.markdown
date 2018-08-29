@@ -1,7 +1,7 @@
 ---
 date: '2008-05-02 17:14:10'
 layout: post
-status: publish
+draft: false
 title: About that MacBook Pro 200 GB 7200 rpm Hard Disk
 tags:
 - Apple

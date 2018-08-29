@@ -2,7 +2,7 @@
 date: '2015-04-28 12:00:00'
 layout: post
 slug: tough-mudder-chicago-2015-obstacles-to-expect
-status: publish
+draft: false
 title: "Tough Mudder Chicago 2015 - Obstacles to Expect"
 tags:
 - Tough Mudder

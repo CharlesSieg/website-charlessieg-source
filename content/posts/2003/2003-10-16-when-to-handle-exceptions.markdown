@@ -2,7 +2,7 @@
 date: '2003-10-16 10:01:00'
 layout: post
 slug: when-to-handle-exceptions
-status: publish
+draft: false
 title: When to Handle Exceptions
 wordpress_id: '8'
 tags:

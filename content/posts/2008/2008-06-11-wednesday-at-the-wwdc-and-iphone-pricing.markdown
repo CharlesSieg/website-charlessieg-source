@@ -1,7 +1,7 @@
 ---
 date: '2008-06-11 14:53:46'
 layout: post
-status: publish
+draft: false
 title: Wednesday at the WWDC and iPhone Application Pricing
 tags:
 - WWDC

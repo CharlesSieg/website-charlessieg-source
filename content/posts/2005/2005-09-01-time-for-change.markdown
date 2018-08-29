@@ -2,7 +2,7 @@
 date: '2005-09-01 16:56:00'
 layout: post
 slug: time-for-change
-status: publish
+draft: false
 title: Time for Change
 wordpress_id: '117'
 ---

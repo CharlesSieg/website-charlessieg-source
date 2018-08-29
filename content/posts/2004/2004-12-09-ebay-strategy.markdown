@@ -2,7 +2,7 @@
 date: '2004-12-09 23:29:00'
 layout: post
 slug: ebay-strategy
-status: publish
+draft: false
 title: eBay Strategy
 wordpress_id: '158'
 ---

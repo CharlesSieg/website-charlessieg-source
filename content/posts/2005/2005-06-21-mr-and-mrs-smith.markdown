@@ -2,7 +2,7 @@
 date: '2005-06-21 16:36:00'
 layout: post
 slug: mr-and-mrs-smith
-status: publish
+draft: false
 title: Mr. and Mrs. Smith
 wordpress_id: '139'
 ---

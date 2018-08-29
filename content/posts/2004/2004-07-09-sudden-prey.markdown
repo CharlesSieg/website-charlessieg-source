@@ -2,7 +2,7 @@
 date: '2004-07-09 10:45:00'
 layout: post
 slug: sudden-prey
-status: publish
+draft: false
 title: Sudden Prey
 wordpress_id: '197'
 ---

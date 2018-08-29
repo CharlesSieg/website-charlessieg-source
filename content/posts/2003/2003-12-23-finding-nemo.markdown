@@ -2,7 +2,7 @@
 date: '2003-12-23 12:09:00'
 layout: post
 slug: finding-nemo
-status: publish
+draft: false
 title: Finding Nemo
 wordpress_id: '263'
 ---

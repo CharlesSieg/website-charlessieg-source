@@ -1,7 +1,7 @@
 ---
 date: '2008-06-08 13:12:32'
 layout: post
-status: publish
+draft: false
 title: Three Reasons to Love United's Red Carpet Club
 tags:
 - WWDC

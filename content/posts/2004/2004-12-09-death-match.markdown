@@ -2,7 +2,7 @@
 date: '2004-12-09 23:40:00'
 layout: post
 slug: death-match
-status: publish
+draft: false
 title: Death Match
 wordpress_id: '157'
 ---

@@ -2,7 +2,7 @@
 date: '2003-11-15 00:00:00'
 layout: post
 slug: self-checkout-rocks
-status: publish
+draft: false
 title: Self-Checkout Rocks!
 wordpress_id: '271'
 ---

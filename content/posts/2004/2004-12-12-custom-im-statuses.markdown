@@ -2,7 +2,7 @@
 date: '2004-12-12 00:06:00'
 layout: post
 slug: custom-im-statuses
-status: publish
+draft: false
 title: Custom IM Statuses
 wordpress_id: '151'
 ---

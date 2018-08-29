@@ -1,7 +1,7 @@
 ---
 date: '2008-06-06 11:33:56'
 layout: post
-status: publish
+draft: false
 title: Versions and Beanstalk
 tags:
 - Apple

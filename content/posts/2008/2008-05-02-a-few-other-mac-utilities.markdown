@@ -1,7 +1,7 @@
 ---
 date: '2008-05-02 15:41:36'
 layout: post
-status: publish
+draft: false
 title: A Few Other Mac Utilities
 tags:
 - Apple

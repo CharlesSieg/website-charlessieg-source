@@ -1,7 +1,7 @@
 ---
 date: '2008-06-08 13:21:12'
 layout: post
-status: publish
+draft: false
 title: Meetup Links for WWDC 2008
 tags:
 - WWDC

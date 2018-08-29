@@ -2,7 +2,7 @@
 date: '2005-09-16 10:24:00'
 layout: post
 slug: writing-on-the-train
-status: publish
+draft: false
 title: Writing on the Train
 wordpress_id: '108'
 tags:

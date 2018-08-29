@@ -2,7 +2,7 @@
 date: '2004-01-12 11:49:00'
 layout: post
 slug: stalking-the-angel
-status: publish
+draft: false
 title: Stalking the Angel
 wordpress_id: '259'
 ---

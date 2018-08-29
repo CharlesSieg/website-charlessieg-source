@@ -2,7 +2,7 @@
 date: '2003-10-17 09:34:00'
 layout: post
 slug: net-solution-architectures
-status: publish
+draft: false
 title: .NET Solution Architectures
 wordpress_id: '282'
 ---

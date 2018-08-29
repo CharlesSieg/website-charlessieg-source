@@ -2,7 +2,7 @@
 date: '2004-02-20 11:10:00'
 layout: post
 slug: eyes-of-prey
-status: publish
+draft: false
 title: Eyes of Prey
 wordpress_id: '231'
 ---

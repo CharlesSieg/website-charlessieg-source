@@ -2,7 +2,7 @@
 date: '2004-04-08 10:15:00'
 layout: post
 slug: motorcycling-through-chernobyl
-status: publish
+draft: false
 title: Motorcycling Through Chernobyl
 wordpress_id: '218'
 ---

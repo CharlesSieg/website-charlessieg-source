@@ -2,7 +2,7 @@
 date: '2004-01-12 12:12:00'
 layout: post
 slug: demise-of-the-clean-plate-club
-status: publish
+draft: false
 title: Demise of the Clean Plate Club
 wordpress_id: '258'
 tags:

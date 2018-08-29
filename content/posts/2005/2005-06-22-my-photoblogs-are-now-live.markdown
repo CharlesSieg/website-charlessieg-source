@@ -2,7 +2,7 @@
 date: '2005-06-22 17:30:00'
 layout: post
 slug: my-photoblogs-are-now-live
-status: publish
+draft: false
 title: My Photoblogs are now Live!
 wordpress_id: '135'
 tags:

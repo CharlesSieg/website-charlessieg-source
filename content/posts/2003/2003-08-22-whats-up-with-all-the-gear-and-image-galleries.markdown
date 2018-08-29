@@ -2,7 +2,7 @@
 date: '2003-08-22 17:11:00'
 layout: post
 slug: whats-up-with-all-the-gear-and-image-galleries
-status: publish
+draft: false
 title: What's up with all the gear and image galleries???
 wordpress_id: '326'
 ---

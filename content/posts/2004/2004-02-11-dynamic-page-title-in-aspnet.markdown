@@ -2,7 +2,7 @@
 date: '2004-02-11 14:37:00'
 layout: post
 slug: dynamic-page-title-in-aspnet
-status: publish
+draft: false
 title: Dynamic Page Title in ASP.NET
 wordpress_id: '5'
 tags:

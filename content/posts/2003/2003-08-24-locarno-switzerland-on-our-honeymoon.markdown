@@ -2,7 +2,7 @@
 date: '2003-08-24 20:06:00'
 layout: post
 slug: locarno-switzerland-on-our-honeymoon
-status: publish
+draft: false
 title: Locarno, Switzerland - On Our Honeymoon
 wordpress_id: '323'
 tags:

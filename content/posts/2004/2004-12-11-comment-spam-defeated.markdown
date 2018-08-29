@@ -2,7 +2,7 @@
 date: '2004-12-11 18:00:00'
 layout: post
 slug: comment-spam-defeated
-status: publish
+draft: false
 title: Comment Spam Defeated!!!
 wordpress_id: '154'
 tags:

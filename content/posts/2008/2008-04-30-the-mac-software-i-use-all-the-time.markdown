@@ -1,7 +1,7 @@
 ---
 date: '2008-04-30 17:13:19'
 layout: post
-status: publish
+draft: false
 title: The Mac Software I Use All the Time
 tags:
 - Apple

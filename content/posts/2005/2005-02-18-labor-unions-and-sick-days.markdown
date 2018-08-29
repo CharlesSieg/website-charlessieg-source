@@ -2,7 +2,7 @@
 date: '2005-02-18 14:58:00'
 layout: post
 slug: labor-unions-and-sick-days
-status: publish
+draft: false
 title: Labor Unions and Sick Days
 wordpress_id: '144'
 ---

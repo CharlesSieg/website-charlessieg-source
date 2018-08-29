@@ -2,7 +2,7 @@
 date: '2003-11-20 01:12:00'
 layout: post
 slug: the-ring
-status: publish
+draft: false
 title: The Ring
 wordpress_id: '270'
 ---

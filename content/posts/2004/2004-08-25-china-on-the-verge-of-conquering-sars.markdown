@@ -2,7 +2,7 @@
 date: '2004-08-25 14:47:00'
 layout: post
 slug: china-on-the-verge-of-conquering-sars
-status: publish
+draft: false
 title: China On the Verge of Conquering SARS
 wordpress_id: '180'
 ---

@@ -2,7 +2,7 @@
 date: '2003-05-28 13:06:00'
 layout: post
 slug: about-forkbendercom
-status: publish
+draft: false
 title: About forkbender.com
 wordpress_id: '358'
 tags:

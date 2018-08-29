@@ -1,7 +1,7 @@
 ---
 date: '2008-04-29 18:35:21'
 layout: post
-status: publish
+draft: false
 title: Doings
 tags:
 - General Updates

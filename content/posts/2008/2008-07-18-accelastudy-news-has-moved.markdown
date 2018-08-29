@@ -1,7 +1,7 @@
 ---
 date: '2008-07-18 13:32:38'
 layout: post
-status: publish
+draft: false
 title: AccelaStudy™ News Has Moved
 tags:
 - iPhone

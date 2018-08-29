@@ -2,7 +2,7 @@
 date: '2004-09-21 10:21:00'
 layout: post
 slug: big-blue-debate-conti-vs-serra
-status: publish
+draft: false
 title: 'Big Blue Debate : Conti vs. Serra'
 wordpress_id: '168'
 ---

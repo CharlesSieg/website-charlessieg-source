@@ -2,7 +2,7 @@
 date: '2004-02-20 13:36:00'
 layout: post
 slug: about-that-milkshake
-status: publish
+draft: false
 title: About That Milkshake
 wordpress_id: '230'
 ---

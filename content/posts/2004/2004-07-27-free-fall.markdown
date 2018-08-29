@@ -2,7 +2,7 @@
 date: '2004-07-27 13:11:00'
 layout: post
 slug: free-fall
-status: publish
+draft: false
 title: Free Fall
 wordpress_id: '189'
 ---

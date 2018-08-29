@@ -2,7 +2,7 @@
 date: '2003-10-01 15:40:00'
 layout: post
 slug: working-on-genealogy
-status: publish
+draft: false
 title: Working on Genealogy
 wordpress_id: '300'
 ---

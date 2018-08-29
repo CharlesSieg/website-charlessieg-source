@@ -1,7 +1,7 @@
 ---
 date: '2008-05-06 17:36:04'
 layout: post
-status: publish
+draft: false
 title: AT&T Purportedly Nixes Retail Employee Vacations Between June 15 and July 12
 tags:
 - Apple

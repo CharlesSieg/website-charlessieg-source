@@ -2,7 +2,7 @@
 date: '2003-10-07 17:20:00'
 layout: post
 slug: corporate-indifference
-status: publish
+draft: false
 title: Corporate Indifference
 wordpress_id: '292'
 ---

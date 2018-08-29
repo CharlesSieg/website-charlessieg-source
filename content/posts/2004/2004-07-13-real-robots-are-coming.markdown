@@ -2,7 +2,7 @@
 date: '2004-07-13 14:58:00'
 layout: post
 slug: real-robots-are-coming
-status: publish
+draft: false
 title: Real Robots are Coming
 wordpress_id: '194'
 ---

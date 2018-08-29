@@ -2,7 +2,7 @@
 date: '2005-06-22 18:06:00'
 layout: post
 slug: hosting-home
-status: publish
+draft: false
 title: Hosting @Home
 wordpress_id: '133'
 ---

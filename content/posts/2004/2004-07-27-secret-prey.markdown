@@ -2,7 +2,7 @@
 date: '2004-07-27 13:22:00'
 layout: post
 slug: secret-prey
-status: publish
+draft: false
 title: Secret Prey
 wordpress_id: '188'
 ---

@@ -2,7 +2,7 @@
 date: '2004-07-14 10:36:00'
 layout: post
 slug: deep-fathom
-status: publish
+draft: false
 title: Deep Fathom
 wordpress_id: '192'
 ---

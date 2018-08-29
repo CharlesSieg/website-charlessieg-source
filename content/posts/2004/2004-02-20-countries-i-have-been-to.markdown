@@ -2,7 +2,7 @@
 date: '2004-02-20 10:59:00'
 layout: post
 slug: countries-i-have-been-to
-status: publish
+draft: false
 title: Countries I Have Been To
 wordpress_id: '233'
 ---

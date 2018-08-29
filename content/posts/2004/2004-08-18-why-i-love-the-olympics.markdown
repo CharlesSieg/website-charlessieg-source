@@ -2,7 +2,7 @@
 date: '2004-08-18 23:10:00'
 layout: post
 slug: why-i-love-the-olympics
-status: publish
+draft: false
 title: Why I Love the Olympics
 wordpress_id: '182'
 ---

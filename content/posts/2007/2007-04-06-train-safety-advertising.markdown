@@ -1,7 +1,7 @@
 ---
 date: '2007-04-06 07:29:00'
 layout: post
-status: publish
+draft: false
 title: Train Safety Advertising
 tags:
 - Quotes

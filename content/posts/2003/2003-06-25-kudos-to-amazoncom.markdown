@@ -2,7 +2,7 @@
 date: '2003-06-25 00:35:00'
 layout: post
 slug: kudos-to-amazoncom
-status: publish
+draft: false
 title: Kudos to Amazon.com!!!
 wordpress_id: '347'
 ---

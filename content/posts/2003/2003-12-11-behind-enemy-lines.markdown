@@ -2,7 +2,7 @@
 date: '2003-12-11 10:55:00'
 layout: post
 slug: behind-enemy-lines
-status: publish
+draft: false
 title: Behind Enemy Lines
 wordpress_id: '264'
 ---

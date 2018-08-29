@@ -2,7 +2,7 @@
 date: '2005-09-19 14:05:00'
 layout: post
 slug: something-for-me-at-starbucks
-status: publish
+draft: false
 title: Something for Me at Starbuck's
 wordpress_id: '106'
 tags:

@@ -1,7 +1,7 @@
 ---
 date: '2006-09-11 11:31:00'
 layout: post
-status: publish
+draft: false
 title: '24: Season 4'
 tags:
 - Movies and TV

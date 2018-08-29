@@ -1,7 +1,7 @@
 ---
 date: 2015-12-03
 layout: post
-status: publish
+draft: false
 title: "Renkara Offices - Finished Stone and Retaining Walls"
 tags:
 - Office

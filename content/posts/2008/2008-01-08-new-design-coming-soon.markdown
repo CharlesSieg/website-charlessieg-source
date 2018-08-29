@@ -1,7 +1,7 @@
 ---
 date: '2008-01-08 13:30:00'
 layout: post
-status: publish
+draft: false
 title: New Design Coming Soon
 tags:
 - Narrative

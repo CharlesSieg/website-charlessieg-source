@@ -2,7 +2,7 @@
 date: '2008-07-11 08:58:29'
 layout: post
 slug: more-apple-woes-on-launch-day
-status: publish
+draft: false
 title: More Apple Woes on Launch Day
 wordpress_id: '379'
 ---

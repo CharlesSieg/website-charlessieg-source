@@ -2,7 +2,7 @@
 date: '2004-07-12 11:25:00'
 layout: post
 slug: xm-radio-rules
-status: publish
+draft: false
 title: XM Radio Rules!
 wordpress_id: '196'
 ---

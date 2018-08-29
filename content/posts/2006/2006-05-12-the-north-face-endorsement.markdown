@@ -2,7 +2,7 @@
 date: '2006-05-12 09:09:00'
 layout: post
 slug: the-north-face-endorsement
-status: publish
+draft: false
 title: The North Face Endorsement
 wordpress_id: '463'
 ---

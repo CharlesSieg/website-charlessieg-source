@@ -1,7 +1,7 @@
 ---
 date: '2008-06-17 14:37:16'
 layout: post
-status: publish
+draft: false
 title: Adobe Having Trouble with the iPhone Device?
 tags:
 - Apple

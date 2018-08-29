@@ -1,7 +1,7 @@
 ---
 date: 2015-12-09
 layout: post
-status: publish
+draft: false
 title: "Renkara Offices - Concrete Overlay"
 tags:
 - Office

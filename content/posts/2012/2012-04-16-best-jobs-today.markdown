@@ -1,7 +1,7 @@
 ---
 date: '2012-04-16 11:09:01'
 layout: post
-status: publish
+draft: false
 title: Best Jobs Today
 tags:
 - Blogosphere

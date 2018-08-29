@@ -2,7 +2,7 @@
 date: '2003-08-18 14:50:00'
 layout: post
 slug: beautiful-weekend
-status: publish
+draft: false
 title: Beautiful Weekend
 wordpress_id: '342'
 ---

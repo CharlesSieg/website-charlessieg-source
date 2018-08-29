@@ -2,7 +2,7 @@
 date: '2003-05-29 11:52:00'
 layout: post
 slug: a-brief-pitch-for-culvers
-status: publish
+draft: false
 title: A Brief Pitch for Culver's
 wordpress_id: '356'
 tags:

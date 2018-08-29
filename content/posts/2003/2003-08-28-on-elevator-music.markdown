@@ -2,7 +2,7 @@
 date: '2003-08-28 15:26:00'
 layout: post
 slug: on-elevator-music
-status: publish
+draft: false
 title: On Elevator Music
 wordpress_id: '320'
 ---

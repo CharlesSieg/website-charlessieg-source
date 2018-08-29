@@ -2,7 +2,7 @@
 date: '2004-09-17 11:55:00'
 layout: post
 slug: certain-prey
-status: publish
+draft: false
 title: Certain Prey
 wordpress_id: '177'
 ---

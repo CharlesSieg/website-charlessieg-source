@@ -2,7 +2,7 @@
 date: '2003-10-11 11:39:00'
 layout: post
 slug: the-green-mile
-status: publish
+draft: false
 title: The Green Mile
 wordpress_id: '290'
 ---

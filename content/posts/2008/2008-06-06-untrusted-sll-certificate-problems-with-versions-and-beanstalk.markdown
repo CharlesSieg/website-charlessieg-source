@@ -1,7 +1,7 @@
 ---
 date: '2008-06-06 11:59:51'
 layout: post
-status: publish
+draft: false
 title: Untrusted SLL Certificate Problems with Versions and Beanstalk
 tags:
 - Source Control

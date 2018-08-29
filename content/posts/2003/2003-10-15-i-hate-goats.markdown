@@ -2,7 +2,7 @@
 date: '2003-10-15 11:33:00'
 layout: post
 slug: i-hate-goats
-status: publish
+draft: false
 title: I Hate Goats
 wordpress_id: '285'
 ---

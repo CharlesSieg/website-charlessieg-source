@@ -1,7 +1,7 @@
 ---
 date: '2008-06-13 14:21:51'
 layout: post
-status: publish
+draft: false
 title: WWDC Wrap Up - Friday
 tags:
 - WWDC

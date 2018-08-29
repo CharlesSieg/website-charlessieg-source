@@ -2,7 +2,7 @@
 date: '2003-06-25 11:30:00'
 layout: post
 slug: expanded-romance-life-radio
-status: publish
+draft: false
 title: Expanded Romance Life Radio!!!
 wordpress_id: '346'
 tags:

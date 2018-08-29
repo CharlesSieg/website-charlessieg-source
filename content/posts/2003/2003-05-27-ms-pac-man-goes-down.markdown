@@ -2,7 +2,7 @@
 date: '2003-05-27 00:01:00'
 layout: post
 slug: ms-pac-man-goes-down
-status: publish
+draft: false
 title: Ms. Pac Man Goes Down!!!
 ---
 

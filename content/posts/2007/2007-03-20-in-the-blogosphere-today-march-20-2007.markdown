@@ -1,7 +1,7 @@
 ---
 date: '2007-03-20 14:37:00'
 layout: post
-status: publish
+draft: false
 title: In the Blogosphere Today - March 20, 2007
 tags:
 - Blogosphere

@@ -1,7 +1,7 @@
 ---
 date: 2015-12-04
 layout: post
-status: publish
+draft: false
 title: "Renkara Offices - Breezeway Stone"
 tags:
 - Office

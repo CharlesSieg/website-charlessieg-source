@@ -2,7 +2,7 @@
 date: '2004-10-04 10:28:00'
 layout: post
 slug: brimstone
-status: publish
+draft: false
 title: Brimstone
 wordpress_id: '164'
 ---

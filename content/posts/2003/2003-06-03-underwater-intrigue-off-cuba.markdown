@@ -2,7 +2,7 @@
 date: '2003-06-03 23:46:00'
 layout: post
 slug: underwater-intrigue-off-cuba
-status: publish
+draft: false
 title: Underwater Intrigue Off Cuba
 wordpress_id: '351'
 ---

@@ -2,7 +2,7 @@
 date: '2004-02-11 11:59:00'
 layout: post
 slug: best-western-offers-free-wifi-access
-status: publish
+draft: false
 title: Best Western Offers Free WiFi Access!
 wordpress_id: '245'
 ---

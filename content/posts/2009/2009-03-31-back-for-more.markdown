@@ -1,7 +1,7 @@
 ---
 date: '2009-03-31 13:39:07'
 layout: post
-status: publish
+draft: false
 title: Back for More
 tags:
 - Renkara

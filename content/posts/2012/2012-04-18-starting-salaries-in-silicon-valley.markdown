@@ -1,7 +1,7 @@
 ---
 date: '2012-04-18 05:22:15'
 layout: post
-status: publish
+draft: false
 title: Starting Salaries in Silicon Valley
 tags:
 - Tech Jobs

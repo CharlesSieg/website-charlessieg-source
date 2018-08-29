@@ -2,7 +2,7 @@
 date: '2003-09-23 14:29:00'
 layout: post
 slug: zip-codes-and-distance
-status: publish
+draft: false
 title: Zip Codes and Distance
 wordpress_id: '306'
 ---

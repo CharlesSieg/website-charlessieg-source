@@ -2,7 +2,7 @@
 date: '2004-12-09 23:49:00'
 layout: post
 slug: kill-bill-volume-1
-status: publish
+draft: false
 title: Kill Bill, Volume 1
 wordpress_id: '156'
 ---

@@ -2,7 +2,7 @@
 date: '2004-07-28 12:55:00'
 layout: post
 slug: my-mosquito-magnet-experience-ae-part-2-good-results
-status: publish
+draft: false
 title: 'My Mosquito Magnet Experience â€“ Part 2: Good Results'
 wordpress_id: '186'
 tags:

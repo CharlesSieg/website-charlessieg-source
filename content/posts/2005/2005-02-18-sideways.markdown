@@ -2,7 +2,7 @@
 date: '2005-02-18 14:12:00'
 layout: post
 slug: sideways
-status: publish
+draft: false
 title: Sideways
 wordpress_id: '146'
 ---

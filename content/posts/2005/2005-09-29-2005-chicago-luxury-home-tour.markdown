@@ -2,7 +2,7 @@
 date: '2005-09-29 12:43:00'
 layout: post
 slug: 2005-chicago-luxury-home-tour
-status: publish
+draft: false
 title: 2005 Chicago Luxury Home Tour
 wordpress_id: '407'
 ---

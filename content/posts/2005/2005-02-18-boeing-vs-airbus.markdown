@@ -2,7 +2,7 @@
 date: '2005-02-18 14:52:00'
 layout: post
 slug: boeing-vs-airbus
-status: publish
+draft: false
 title: Boeing vs. Airbus
 wordpress_id: '145'
 ---

@@ -2,7 +2,7 @@
 date: '2003-10-17 09:32:00'
 layout: post
 slug: 4-down-1-to-go
-status: publish
+draft: false
 title: 4 Down, 1 to Go
 wordpress_id: '283'
 ---

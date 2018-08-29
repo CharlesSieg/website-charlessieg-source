@@ -1,7 +1,7 @@
 ---
 date: '2008-06-08 13:45:35'
 layout: post
-status: publish
+draft: false
 title: Testing a New Theme
 tags:
 - Content Management

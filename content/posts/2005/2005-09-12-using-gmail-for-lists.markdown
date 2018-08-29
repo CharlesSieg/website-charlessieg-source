@@ -2,7 +2,7 @@
 date: '2005-09-12 14:53:00'
 layout: post
 slug: using-gmail-for-lists
-status: publish
+draft: false
 title: Using GMail for Lists
 wordpress_id: '115'
 tags:

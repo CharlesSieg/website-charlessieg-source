@@ -1,7 +1,7 @@
 ---
 date: '2008-06-13 15:12:55'
 layout: post
-status: publish
+draft: false
 title: Great Quote from Hugh Daniel
 tags:
 - Quotes

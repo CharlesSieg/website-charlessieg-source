@@ -2,7 +2,7 @@
 date: '2004-12-05 00:09:00'
 layout: post
 slug: explanation-for-lack-of-recent-content
-status: publish
+draft: false
 title: Explanation for Lack of Recent Content
 wordpress_id: '160'
 tags:

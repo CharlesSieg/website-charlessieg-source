@@ -2,7 +2,7 @@
 date: '2004-09-17 12:02:00'
 layout: post
 slug: the-club-dumas
-status: publish
+draft: false
 title: The Club Dumas
 wordpress_id: '175'
 ---

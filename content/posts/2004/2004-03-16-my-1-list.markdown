@@ -2,7 +2,7 @@
 date: '2004-03-16 14:10:00'
 layout: post
 slug: my-1-list
-status: publish
+draft: false
 title: My $#1] List
 wordpress_id: '224'
 ---

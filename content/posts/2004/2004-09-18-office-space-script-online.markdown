@@ -2,7 +2,7 @@
 date: '2004-09-18 23:44:00'
 layout: post
 slug: office-space-script-online
-status: publish
+draft: false
 title: Office Space Script Online
 wordpress_id: '173'
 ---

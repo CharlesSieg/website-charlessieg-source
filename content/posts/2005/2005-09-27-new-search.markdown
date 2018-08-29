@@ -2,7 +2,7 @@
 date: '2005-09-27 23:11:00'
 layout: post
 slug: new-search
-status: publish
+draft: false
 title: New Search
 wordpress_id: '404'
 tags:

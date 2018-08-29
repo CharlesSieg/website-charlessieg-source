@@ -1,7 +1,7 @@
 ---
 date: '2006-05-03 14:16:00'
 layout: post
-status: publish
+draft: false
 title: Coming Soon
 tags:
 - Narrative

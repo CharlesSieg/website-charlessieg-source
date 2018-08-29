@@ -2,7 +2,7 @@
 date: '2005-09-27 10:21:00'
 layout: post
 slug: to-all-the-kids-who-survived
-status: publish
+draft: false
 title: To All the Kids Who Survived
 wordpress_id: '400'
 ---

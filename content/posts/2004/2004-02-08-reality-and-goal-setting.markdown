@@ -2,7 +2,7 @@
 date: '2004-02-08 19:59:00'
 layout: post
 slug: reality-and-goal-setting
-status: publish
+draft: false
 title: Reality and Goal Setting
 wordpress_id: '249'
 tags:

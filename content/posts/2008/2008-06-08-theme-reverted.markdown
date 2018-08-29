@@ -1,7 +1,7 @@
 ---
 date: '2008-06-08 20:03:37'
 layout: post
-status: publish
+draft: false
 title: Theme Reverted
 tags:
 - WWDC

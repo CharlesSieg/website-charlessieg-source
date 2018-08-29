@@ -1,7 +1,7 @@
 ---
 date: '2008-06-09 23:14:15'
 layout: post
-status: publish
+draft: false
 title: AT&T and How it Fits Into iPhone 3G
 tags:
 - WWDC

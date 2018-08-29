@@ -2,7 +2,7 @@
 date: '2003-05-30 10:43:00'
 layout: post
 slug: chipotle-burrito-bol-nutrition-zone-diet-analysis
-status: publish
+draft: false
 title: Chipotle Burrito Bol Nutrition - Zone Diet Analysis
 tags:
 - Chipotle

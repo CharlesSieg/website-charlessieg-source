@@ -2,7 +2,7 @@
 date: '2003-06-03 00:34:00'
 layout: post
 slug: my-travels
-status: publish
+draft: false
 title: My Travels
 wordpress_id: '352'
 ---

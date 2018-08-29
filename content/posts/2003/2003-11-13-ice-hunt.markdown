@@ -2,7 +2,7 @@
 date: '2003-11-13 12:12:00'
 layout: post
 slug: ice-hunt
-status: publish
+draft: false
 title: Ice Hunt
 wordpress_id: '272'
 ---

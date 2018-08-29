@@ -1,7 +1,7 @@
 ---
 date: '2008-05-06 17:35:19'
 layout: post
-status: publish
+draft: false
 title: Vodafone to Offer Apple’s iPhone in Ten Markets
 tags:
 - Apple

@@ -2,7 +2,7 @@
 date: '2003-09-09 09:54:00'
 layout: post
 slug: coolness-on-romance-life-radio
-status: publish
+draft: false
 title: Coolness on Romance Life Radio
 wordpress_id: '308'
 tags:

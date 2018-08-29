@@ -2,7 +2,7 @@
 date: '2003-11-10 18:00:00'
 layout: post
 slug: coming-soon-on-forkbendercom
-status: publish
+draft: false
 title: Coming Soon on ForkBender.com
 wordpress_id: '273'
 tags:

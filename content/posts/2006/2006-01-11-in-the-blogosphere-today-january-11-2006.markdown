@@ -1,7 +1,7 @@
 ---
 date: '2006-01-11 14:05:00'
 layout: post
-status: publish
+draft: false
 title: In the Blogosphere Today - January 11, 2006
 tags:
 - Blogosphere

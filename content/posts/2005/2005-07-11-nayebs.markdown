@@ -2,7 +2,7 @@
 date: '2005-07-11 10:54:00'
 layout: post
 slug: nayebs
-status: publish
+draft: false
 title: Nayeb's
 wordpress_id: '130'
 ---

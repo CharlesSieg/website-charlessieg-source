@@ -1,7 +1,7 @@
 ---
 date: 2015-12-15
 layout: post
-status: publish
+draft: false
 title: "Renkara Offices - Hot and Cold"
 tags:
 - Office

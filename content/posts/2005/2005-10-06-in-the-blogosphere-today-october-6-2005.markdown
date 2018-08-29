@@ -2,7 +2,7 @@
 date: '2005-10-06 15:33:00'
 layout: post
 slug: in-the-blogosphere-today-october-6-2005
-status: publish
+draft: false
 title: In the Blogosphere Today - October 6, 2005
 wordpress_id: '417'
 tags:

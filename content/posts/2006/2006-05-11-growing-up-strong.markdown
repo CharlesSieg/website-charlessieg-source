@@ -2,7 +2,7 @@
 date: '2006-05-11 11:54:00'
 layout: post
 slug: growing-up-strong
-status: publish
+draft: false
 title: Growing Up Strong
 wordpress_id: '462'
 ---

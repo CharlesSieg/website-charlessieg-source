@@ -2,7 +2,7 @@
 date: '2004-02-04 14:35:00'
 layout: post
 slug: dont-say-a-word
-status: publish
+draft: false
 title: Don't Say a Word
 wordpress_id: '252'
 ---

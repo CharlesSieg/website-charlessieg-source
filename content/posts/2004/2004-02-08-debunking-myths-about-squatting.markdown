@@ -2,7 +2,7 @@
 date: '2004-02-08 16:28:00'
 layout: post
 slug: debunking-myths-about-squatting
-status: publish
+draft: false
 title: Debunking Myths about Squatting
 wordpress_id: '251'
 tags:

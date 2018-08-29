@@ -2,7 +2,7 @@
 date: '2004-02-20 08:12:00'
 layout: post
 slug: top-differences-an-american-notices-in-europe
-status: publish
+draft: false
 title: Top Differences an American Notices in Europe
 wordpress_id: '234'
 ---

@@ -2,7 +2,7 @@
 date: '2003-10-20 09:46:00'
 layout: post
 slug: 25th-hour
-status: publish
+draft: false
 title: 25th Hour
 wordpress_id: '279'
 ---

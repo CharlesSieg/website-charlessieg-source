@@ -2,7 +2,7 @@
 date: '2004-02-01 17:43:00'
 layout: post
 slug: good-weather-news-and-bad-news
-status: publish
+draft: false
 title: Good Weather News and Bad News
 wordpress_id: '253'
 ---

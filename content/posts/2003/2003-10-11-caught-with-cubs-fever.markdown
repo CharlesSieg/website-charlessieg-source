@@ -2,7 +2,7 @@
 date: '2003-10-11 15:06:00'
 layout: post
 slug: caught-with-cubs-fever
-status: publish
+draft: false
 title: Caught With Cubs Fever
 wordpress_id: '289'
 ---

@@ -2,7 +2,7 @@
 date: '2004-01-15 06:45:00'
 layout: post
 slug: get-architects-involved-early
-status: publish
+draft: false
 title: Get Architects Involved Early
 wordpress_id: '255'
 ---

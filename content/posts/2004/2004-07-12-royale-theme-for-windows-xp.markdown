@@ -2,7 +2,7 @@
 date: '2004-07-12 11:50:00'
 layout: post
 slug: royale-theme-for-windows-xp
-status: publish
+draft: false
 title: Royale Theme for Windows XP
 wordpress_id: '195'
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2008-06-08 20:01:45'
 layout: post
-status: publish
+draft: false
 title: Arrived in San Francisco
 tags:
 - WWDC

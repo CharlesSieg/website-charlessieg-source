@@ -2,7 +2,7 @@
 date: '2003-11-01 01:26:00'
 layout: post
 slug: year-zero
-status: publish
+draft: false
 title: Year Zero
 wordpress_id: '274'
 ---

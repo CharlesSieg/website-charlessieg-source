@@ -2,7 +2,7 @@
 date: '2003-08-18 15:03:00'
 layout: post
 slug: the-office-space-red-stapler
-status: publish
+draft: false
 title: The Office Space Red Stapler
 wordpress_id: '341'
 ---

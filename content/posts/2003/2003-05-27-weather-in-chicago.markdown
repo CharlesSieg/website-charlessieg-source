@@ -2,7 +2,7 @@
 date: '2003-05-27 23:36:00'
 layout: post
 slug: weather-in-chicago
-status: publish
+draft: false
 title: Weather in Chicago
 wordpress_id: '362'
 ---

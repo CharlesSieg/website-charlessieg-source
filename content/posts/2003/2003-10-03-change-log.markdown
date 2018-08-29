@@ -2,7 +2,7 @@
 date: '2003-10-03 19:03:00'
 layout: post
 slug: change-log
-status: publish
+draft: false
 title: Change Log
 wordpress_id: '13'
 tags:

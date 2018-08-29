@@ -1,7 +1,7 @@
 ---
 date: '2008-01-15 21:41:00'
 layout: post
-status: publish
+draft: false
 title: World of Warcraft Starting to Dismay
 tags:
 - Gaming

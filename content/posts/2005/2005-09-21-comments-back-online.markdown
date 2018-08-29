@@ -2,7 +2,7 @@
 date: '2005-09-21 12:42:00'
 layout: post
 slug: comments-back-online
-status: publish
+draft: false
 title: Comments Back Online
 wordpress_id: '395'
 ---

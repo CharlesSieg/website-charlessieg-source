@@ -2,7 +2,7 @@
 date: '2004-09-17 11:58:00'
 layout: post
 slug: the-pianist
-status: publish
+draft: false
 title: The Pianist
 wordpress_id: '176'
 ---

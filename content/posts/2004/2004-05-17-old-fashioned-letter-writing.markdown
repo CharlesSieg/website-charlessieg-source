@@ -2,7 +2,7 @@
 date: '2004-05-17 11:55:00'
 layout: post
 slug: old-fashioned-letter-writing
-status: publish
+draft: false
 title: Old Fashioned Letter Writing
 wordpress_id: '212'
 ---

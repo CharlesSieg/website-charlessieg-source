@@ -2,7 +2,7 @@
 date: '2003-05-27 23:58:00'
 layout: post
 slug: an-ode-to-lynchburg-lemonade
-status: publish
+draft: false
 title: An Ode to Lynchburg Lemonade
 tags:
 - Diet and Nutrition

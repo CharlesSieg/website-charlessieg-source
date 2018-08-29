@@ -2,7 +2,7 @@
 date: '2004-06-14 15:09:00'
 layout: post
 slug: my-mosquito-magnet-experience-ae-part-1-the-decision-to-buy
-status: publish
+draft: false
 title: 'My Mosquito Magnet Experience â€“ Part 1: The Decision to Buy'
 wordpress_id: '208'
 tags:

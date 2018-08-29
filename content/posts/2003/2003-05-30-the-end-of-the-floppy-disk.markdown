@@ -2,7 +2,7 @@
 date: '2003-05-30 23:49:00'
 layout: post
 slug: the-end-of-the-floppy-disk
-status: publish
+draft: false
 title: The End of the Floppy Disk
 wordpress_id: '353'
 ---

@@ -2,7 +2,7 @@
 date: '2004-09-20 15:15:00'
 layout: post
 slug: changes-to-forkbendercom-and-the-narrative-cms
-status: publish
+draft: false
 title: Changes to ForkBender.com and the Narrative CMS
 wordpress_id: '170'
 ---

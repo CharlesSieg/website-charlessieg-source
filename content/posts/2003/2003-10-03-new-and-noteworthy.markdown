@@ -2,7 +2,7 @@
 date: '2003-10-03 19:06:00'
 layout: post
 slug: new-and-noteworthy
-status: publish
+draft: false
 title: New and Noteworthy
 wordpress_id: '9'
 tags:

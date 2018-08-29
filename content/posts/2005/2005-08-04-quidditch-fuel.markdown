@@ -2,7 +2,7 @@
 date: '2005-08-04 23:03:00'
 layout: post
 slug: quidditch-fuel
-status: publish
+draft: false
 title: Quidditch Fuel
 wordpress_id: '122'
 tags:

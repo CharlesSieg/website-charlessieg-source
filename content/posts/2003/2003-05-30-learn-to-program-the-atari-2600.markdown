@@ -2,7 +2,7 @@
 date: '2003-05-30 11:17:00'
 layout: post
 slug: learn-to-program-the-atari-2600
-status: publish
+draft: false
 title: Learn to Program the Atari 2600
 wordpress_id: '354'
 ---

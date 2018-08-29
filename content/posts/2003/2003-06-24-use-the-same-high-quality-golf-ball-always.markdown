@@ -2,7 +2,7 @@
 date: '2003-06-24 01:13:00'
 layout: post
 slug: use-the-same-high-quality-golf-ball-always
-status: publish
+draft: false
 title: Use the Same High-Quality Golf Ball Always
 wordpress_id: '349'
 tags:

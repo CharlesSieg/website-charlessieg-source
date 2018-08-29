@@ -2,7 +2,7 @@
 date: '2004-08-25 14:42:00'
 layout: post
 slug: my-chipotle-is-bigger-than-yours
-status: publish
+draft: false
 title: My Chipotle is Bigger Than Yours
 wordpress_id: '181'
 ---

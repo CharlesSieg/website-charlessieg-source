@@ -2,7 +2,7 @@
 date: '2005-08-31 23:44:00'
 layout: post
 slug: inevitability
-status: publish
+draft: false
 title: Inevitability
 wordpress_id: '118'
 ---

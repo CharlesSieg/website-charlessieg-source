@@ -1,7 +1,7 @@
 ---
 date: '2009-04-12 15:17:53'
 layout: post
-status: publish
+draft: false
 title: Going Paperbackless
 tags:
 - Productivity

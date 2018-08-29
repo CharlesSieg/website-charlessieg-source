@@ -1,7 +1,7 @@
 ---
 date: '2008-06-09 22:15:06'
 layout: post
-status: publish
+draft: false
 title: A Recap on My WWDC Predictions
 tags:
 - WWDC

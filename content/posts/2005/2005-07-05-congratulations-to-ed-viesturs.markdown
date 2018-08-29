@@ -2,7 +2,7 @@
 date: '2005-07-05 11:18:00'
 layout: post
 slug: congratulations-to-ed-viesturs
-status: publish
+draft: false
 title: Congratulations to Ed Viesturs!
 wordpress_id: '131'
 ---

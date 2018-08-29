@@ -1,7 +1,7 @@
 ---
 date: '2008-05-02 17:21:07'
 layout: post
-status: publish
+draft: false
 title: Mobile Solution for RAID 0 FireWire 800 Hard Disk
 tags:
 - Apple

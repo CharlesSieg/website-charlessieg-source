@@ -1,7 +1,7 @@
 ---
 date: '2008-06-08 12:38:57'
 layout: post
-status: publish
+draft: false
 title: The Real O'Hare Oasis
 tags:
 - WWDC

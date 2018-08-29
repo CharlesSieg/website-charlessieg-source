@@ -2,7 +2,7 @@
 date: '2005-08-03 23:08:00'
 layout: post
 slug: site-redesign
-status: publish
+draft: false
 title: Site Redesign
 wordpress_id: '124'
 tags:

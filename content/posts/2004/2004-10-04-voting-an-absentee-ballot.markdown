@@ -2,7 +2,7 @@
 date: '2004-10-04 10:24:00'
 layout: post
 slug: voting-an-absentee-ballot
-status: publish
+draft: false
 title: Voting an Absentee Ballot
 wordpress_id: '165'
 ---

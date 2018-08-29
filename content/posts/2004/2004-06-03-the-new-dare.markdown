@@ -2,7 +2,7 @@
 date: '2004-06-03 15:08:00'
 layout: post
 slug: the-new-dare
-status: publish
+draft: false
 title: The New D.A.R.E.
 wordpress_id: '209'
 ---

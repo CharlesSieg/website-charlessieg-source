@@ -2,7 +2,7 @@
 date: '2004-06-22 13:20:00'
 layout: post
 slug: a-close-call-and-cell-phone-stupidity
-status: publish
+draft: false
 title: A Close Call and Cell Phone Stupidity
 wordpress_id: '204'
 ---

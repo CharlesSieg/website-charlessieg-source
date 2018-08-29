@@ -2,7 +2,7 @@
 date: '2003-06-24 01:14:00'
 layout: post
 slug: romance-life-now-on-the-internet-airwaves
-status: publish
+draft: false
 title: Romance Life Now On the Internet Airwaves!
 wordpress_id: '348'
 tags:

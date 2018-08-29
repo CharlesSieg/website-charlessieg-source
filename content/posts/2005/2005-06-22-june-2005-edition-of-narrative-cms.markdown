@@ -2,7 +2,7 @@
 date: '2005-06-22 17:41:00'
 layout: post
 slug: june-2005-edition-of-narrative-cms
-status: publish
+draft: false
 title: June 2005 Edition of Narrative CMS
 wordpress_id: '134'
 tags:

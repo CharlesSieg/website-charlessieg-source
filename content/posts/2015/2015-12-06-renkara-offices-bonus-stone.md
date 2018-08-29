@@ -1,7 +1,7 @@
 ---
 date: 2015-12-06
 layout: post
-status: publish
+draft: false
 title: "Renkara Offices - Bonus Stone"
 tags:
 - Office

@@ -1,7 +1,7 @@
 ---
 date: '2006-09-11 11:26:00'
 layout: post
-status: publish
+draft: false
 title: The Devil in the White City
 tags:
 - Reading Material

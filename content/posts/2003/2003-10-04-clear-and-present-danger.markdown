@@ -2,7 +2,7 @@
 date: '2003-10-04 12:54:00'
 layout: post
 slug: clear-and-present-danger
-status: publish
+draft: false
 title: Clear and Present Danger
 wordpress_id: '294'
 ---

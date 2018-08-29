@@ -2,7 +2,7 @@
 date: '2004-02-12 21:03:00'
 layout: post
 slug: the-apprentice-and-donald-trump
-status: publish
+draft: false
 title: The Apprentice and Donald Trump
 wordpress_id: '243'
 ---

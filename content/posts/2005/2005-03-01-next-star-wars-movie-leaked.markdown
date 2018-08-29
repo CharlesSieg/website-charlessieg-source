@@ -2,7 +2,7 @@
 date: '2005-03-01 19:42:00'
 layout: post
 slug: next-star-wars-movie-leaked
-status: publish
+draft: false
 title: Next Star Wars Movie Leaked
 wordpress_id: '141'
 ---

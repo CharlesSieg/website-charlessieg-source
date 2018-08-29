@@ -1,7 +1,7 @@
 ---
 date: '2008-06-09 22:22:29'
 layout: post
-status: publish
+draft: false
 title: Status of the iPhone Developer Program
 tags:
 - WWDC

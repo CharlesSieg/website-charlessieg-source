@@ -2,7 +2,7 @@
 date: '2003-09-01 22:14:00'
 layout: post
 slug: a-rainy-labor-day-weekend
-status: publish
+draft: false
 title: A Rainy Labor Day Weekend
 wordpress_id: '310'
 ---

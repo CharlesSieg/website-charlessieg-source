@@ -2,7 +2,7 @@
 date: '2004-12-12 00:38:00'
 layout: post
 slug: buy-the-brides-couch
-status: publish
+draft: false
 title: Buy The Bride's Couch
 wordpress_id: '150'
 ---

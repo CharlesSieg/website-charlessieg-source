@@ -1,7 +1,7 @@
 ---
 date: '2012-04-13 16:36:00'
 layout: post
-status: publish
+draft: false
 title: Back on WordPress
 tags:
 - General Updates

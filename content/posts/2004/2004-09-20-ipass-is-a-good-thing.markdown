@@ -2,7 +2,7 @@
 date: '2004-09-20 10:32:00'
 layout: post
 slug: ipass-is-a-good-thing
-status: publish
+draft: false
 title: IPASS is A Good Thing
 wordpress_id: '171'
 ---

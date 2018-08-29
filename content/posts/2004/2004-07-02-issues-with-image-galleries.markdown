@@ -2,7 +2,7 @@
 date: '2004-07-02 19:04:00'
 layout: post
 slug: issues-with-image-galleries
-status: publish
+draft: false
 title: Issues with Image Galleries
 wordpress_id: '199'
 ---

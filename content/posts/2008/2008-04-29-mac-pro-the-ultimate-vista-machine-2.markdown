@@ -1,7 +1,7 @@
 ---
 date: '2008-04-29 17:58:16'
 layout: post
-status: publish
+draft: false
 title: 'Mac Pro: The Ultimate Vista Machine'
 tags:
 - Apple

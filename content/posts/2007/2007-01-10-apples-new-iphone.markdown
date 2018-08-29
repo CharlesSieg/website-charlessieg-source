@@ -1,7 +1,7 @@
 ---
 date: '2007-01-10 06:22:00'
 layout: post
-status: publish
+draft: false
 title: Apple's New iPhone
 tags:
 - Apple

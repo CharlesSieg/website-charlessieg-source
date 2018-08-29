@@ -2,7 +2,7 @@
 date: '2003-05-28 01:07:00'
 layout: post
 slug: contact-me
-status: publish
+draft: false
 title: Contact me
 wordpress_id: '359'
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2008-04-29 17:41:20'
 layout: post
-status: publish
+draft: false
 title: Household Core Count
 tags:
 - Apple

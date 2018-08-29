@@ -2,7 +2,7 @@
 date: '2005-09-09 09:00:00'
 layout: post
 slug: weekly-edge-up
-status: publish
+draft: false
 title: Weekly Edge Up
 wordpress_id: '116'
 ---

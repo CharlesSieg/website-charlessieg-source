@@ -2,7 +2,7 @@
 date: '2004-07-26 00:13:00'
 layout: post
 slug: beautiful-light
-status: publish
+draft: false
 title: Beautiful Light
 wordpress_id: '190'
 ---

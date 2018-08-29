@@ -2,7 +2,7 @@
 date: '2005-03-01 13:50:00'
 layout: post
 slug: weird-mail
-status: publish
+draft: false
 title: Weird Mail
 wordpress_id: '142'
 ---

@@ -2,7 +2,7 @@
 date: '2004-08-18 15:23:00'
 layout: post
 slug: review-doom-3-from-id-software
-status: publish
+draft: false
 title: 'Review : Doom 3 from id Software'
 wordpress_id: '183'
 ---

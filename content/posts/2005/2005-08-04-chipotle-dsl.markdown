@@ -2,7 +2,7 @@
 date: '2005-08-04 11:04:00'
 layout: post
 slug: chipotle-dsl
-status: publish
+draft: false
 title: Chipotle DSL
 wordpress_id: '123'
 tags:

@@ -2,7 +2,7 @@
 date: '2003-05-28 22:28:00'
 layout: post
 slug: back-from-bruce-almighty
-status: publish
+draft: false
 title: Back from Bruce Almighty
 wordpress_id: '357'
 ---

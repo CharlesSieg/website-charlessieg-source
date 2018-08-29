@@ -1,7 +1,7 @@
 ---
 date: '2008-06-09 19:37:19'
 layout: post
-status: publish
+draft: false
 title: Images from WWDC 2008 Monday
 tags:
 - WWDC

@@ -1,7 +1,7 @@
 ---
 date: '2005-12-06 11:48:00'
 layout: post
-status: publish
+draft: false
 title: The Service Economy
 tags:
 - Productivity

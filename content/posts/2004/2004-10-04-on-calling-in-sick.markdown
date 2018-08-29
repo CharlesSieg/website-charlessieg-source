@@ -2,7 +2,7 @@
 date: '2004-10-04 10:14:00'
 layout: post
 slug: on-calling-in-sick
-status: publish
+draft: false
 title: On Calling in Sick
 wordpress_id: '166'
 tags:

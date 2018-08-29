@@ -2,7 +2,7 @@
 date: '2004-08-04 11:17:00'
 layout: post
 slug: the-house-of-sand-and-fog
-status: publish
+draft: false
 title: The House of Sand and Fog
 wordpress_id: '185'
 ---

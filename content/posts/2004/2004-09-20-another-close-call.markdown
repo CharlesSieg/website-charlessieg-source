@@ -2,7 +2,7 @@
 date: '2004-09-20 10:12:00'
 layout: post
 slug: another-close-call
-status: publish
+draft: false
 title: Another Close Call
 wordpress_id: '172'
 ---

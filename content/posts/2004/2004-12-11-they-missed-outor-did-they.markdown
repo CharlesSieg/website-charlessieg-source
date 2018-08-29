@@ -2,7 +2,7 @@
 date: '2004-12-11 23:58:00'
 layout: post
 slug: they-missed-outor-did-they
-status: publish
+draft: false
 title: They Missed Out...Or Did They?
 wordpress_id: '152'
 ---

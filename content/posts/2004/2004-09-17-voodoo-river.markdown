@@ -2,7 +2,7 @@
 date: '2004-09-17 11:51:00'
 layout: post
 slug: voodoo-river
-status: publish
+draft: false
 title: Voodoo River
 wordpress_id: '179'
 ---

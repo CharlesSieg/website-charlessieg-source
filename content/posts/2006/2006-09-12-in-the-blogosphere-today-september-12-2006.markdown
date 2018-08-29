@@ -1,7 +1,7 @@
 ---
 date: '2006-09-12 14:35:00'
 layout: post
-status: publish
+draft: false
 title: In the Blogosphere Today - September 12, 2006
 tags:
 - Blogosphere

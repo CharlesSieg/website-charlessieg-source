@@ -1,7 +1,7 @@
 ---
 date: '2005-12-16 17:47:00'
 layout: post
-status: publish
+draft: false
 title: In the Blogosphere Today - December 16, 2005
 tags:
 - Blogosphere

@@ -2,7 +2,7 @@
 date: '2003-08-24 20:08:00'
 layout: post
 slug: istanbul-turkey-on-our-honeymoon
-status: publish
+draft: false
 title: Istanbul, Turkey - On Our Honeymoon
 wordpress_id: '322'
 tags:

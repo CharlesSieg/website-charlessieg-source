@@ -1,7 +1,7 @@
 ---
 date: '2008-04-28 18:22:10'
 layout: post
-status: publish
+draft: false
 title: A New Home on WordPress
 tags:
 - Content Management

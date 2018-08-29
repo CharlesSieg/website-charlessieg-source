@@ -2,7 +2,7 @@
 date: '2003-10-24 10:00:00'
 layout: post
 slug: iis-5-metabase-and-phantom-virtual-directories
-status: publish
+draft: false
 title: IIS 5 Metabase and Phantom Virtual Directories
 wordpress_id: '7'
 tags:

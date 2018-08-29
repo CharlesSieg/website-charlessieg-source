@@ -2,7 +2,7 @@
 date: '2003-10-03 19:05:00'
 layout: post
 slug: bookmarks
-status: publish
+draft: false
 title: Bookmarks
 wordpress_id: '10'
 tags:

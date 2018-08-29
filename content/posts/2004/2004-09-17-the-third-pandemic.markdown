@@ -2,7 +2,7 @@
 date: '2004-09-17 11:53:00'
 layout: post
 slug: the-third-pandemic
-status: publish
+draft: false
 title: The Third Pandemic
 wordpress_id: '178'
 ---

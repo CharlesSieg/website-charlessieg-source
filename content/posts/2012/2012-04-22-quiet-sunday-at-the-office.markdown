@@ -1,6 +1,6 @@
 ---
 layout: post
-status: publish
+draft: false
 title: "Quiet Sunday at the Office"
 date: 2012-04-22 12:26
 comments: false

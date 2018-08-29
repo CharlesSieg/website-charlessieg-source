@@ -1,7 +1,7 @@
 ---
 date: '2012-04-22 07:48:25'
 layout: post
-status: publish
+draft: false
 title: Karl's iPad Takes a Fall
 tags:
 - iPad

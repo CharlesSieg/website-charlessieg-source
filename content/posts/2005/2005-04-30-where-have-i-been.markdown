@@ -2,7 +2,7 @@
 date: '2005-04-30 11:19:00'
 layout: post
 slug: where-have-i-been
-status: publish
+draft: false
 title: Where Have I Been?
 wordpress_id: '140'
 ---

@@ -2,7 +2,7 @@
 date: '2005-07-14 11:30:00'
 layout: post
 slug: things-to-do-before-you-die
-status: publish
+draft: false
 title: Things to Do Before You Die
 wordpress_id: '127'
 ---
