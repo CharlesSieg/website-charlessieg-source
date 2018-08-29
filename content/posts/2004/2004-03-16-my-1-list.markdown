@@ -1,0 +1,37 @@
+---
+date: '2004-03-16 14:10:00'
+layout: post
+slug: my-1-list
+status: publish
+title: My $#1] List
+wordpress_id: '224'
+---
+
+Yes, yes, I know it usually has another name but I attempt to keep things clean on this website. But here is a list of all the things I can think of that piss me off...and trust me, you don't want to be on this list. These are not in any particular order and I am sure the list will grow.  
+
+
+
+
+
+  1. **Little annoying, yippy, soccer ball dogs.** If a dog barks, it should sound like Cujo. Definitely can't stand dogs like [these](http://www.akc.org/breeds/recbreeds/poodle.cfm). Dogs like that are what make Europeans film stupid commercials like [this](http://www.punchbaby.com/media/gitfakt/clips/funny/DogtFoot.avi).
+
+
+  2. **People who drive the speed limit in the left lane.** And who don't get it that when you are riding up on their bumper in the left lane that it is their signal to get the heck over.
+
+
+  3. **Having to pay for personal use of server-side software.** SQL Server, for example, or Vignette. Narrative will not be like this. It will be free for everyone, as long as it is for your own personal, non-commerical use.
+
+
+  4. **The pathetic state of customer service in this country.** Not that I would know if it is better anywhere else, but it sucks here. Try getting help if your DSL modem is down. Be prepared to talk to an idiot and only then after waiting for an hour listening to crappy on-hold music.
+
+
+  5. **Retail stores with websites that don't tell you if an item is in-stock at a nearby location.** I can best illustrate this through a counter-example. CompUSA has a website which allows you to look up almost any item in a store. I typed "708a" into their Search and came up with the Plextor 708a DVD burner I was looking for. Then you can type in your Zip Code and it will show you all the stores in your area that have that item in-stock, how to get to the store, and how much the item is in the store. Way cool!!! If your website doesn't tell me this, I'm going somewhere else 'cause I sure don't have time to drive around or call around to each of your stores to find out.
+
+
+  6. **Network and application security people who come up with the most obscure, low-risk, never-ever-gonna-happen, couldn't do it myself security holes and play FUD to management.** This stuff drives me nuts. Someone says something like "well, if you have X and Y, and happen to have a Z laying around, and its a leap year then on a Friday the 13th at midnight, someone might be able to do a denial-of-service attack"... Yeah, right...remind me to spend ZERO time on that one.
+
+
+  7. **Chicago weather.** I never knew when I moved here that, according to Money Magazine, Chicago has 116 days a year below 32 degrees Fahrenheit. Greaaaat.
+
+
+

@@ -1,0 +1,14 @@
+---
+date: '2008-04-29 18:35:21'
+layout: post
+status: publish
+title: Doings
+tags:
+- General Updates
+---
+
+I posted an article on CharlesSieg.com about [my wife's new Mac Pro](http://www.charlessieg.com/?p=20).
+
+Currently enjoying the [2005 J. Lohr Cabernet Sauvignon](http://www.jlohr.com/wines_vineyards_04_hilltop_cab.html).
+
+Loving the new [WordPress](http://www.wordpress.org) blogging platform.

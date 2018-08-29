@@ -1,0 +1,13 @@
+---
+date: '2003-10-17 09:32:00'
+layout: post
+slug: 4-down-1-to-go
+status: publish
+title: 4 Down, 1 to Go
+wordpress_id: '283'
+---
+
+I passed the Windows application development exam for the MCSD.NET this morning. Not too bad - a lot of emphasis on Trace and Debug, data binding, deployment, and security. I now have only the Solution Architectures exam left to finish. That one is scheduled for Halloween!
+
+
+

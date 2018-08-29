@@ -1,0 +1,10 @@
+---
+date: '2009-11-12 17:01:37'
+layout: post
+status: publish
+title: links for 2009-11-12
+tags:
+- Blogosphere
+---
+
+ * [Choose Your Own Adventure books dissected](http://samizdat.cc/cyoa/)

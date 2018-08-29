@@ -1,0 +1,22 @@
+---
+date: '2009-10-30 18:02:25'
+layout: post
+status: publish
+title: links for 2009-10-30
+tags:
+- Blogosphere
+---
+
+* [30 iPhone Apps with Sexy Interfaces – Mac.AppStorm](http://mac.appstorm.net/roundups/iphone-roundups/30-iphone-apps-with-sexy-interfaces/) 30 decent examples of iPhone UI
+
+* [Inspiration: 100 Awesome iPhone Apps Websites](http://www.macstories.net/stories/100-awesome-iphone-apps-websites/) 100 excellent iPhone app websites
+ 
+* [Showcase of Case Studies in Design Portfolios](http://www.smashingmagazine.com/2009/09/20/showcase-of-case-studies-in-design-portfolios/) A lot of examples of portfolio websites.
+
+* [User interface design, icon design, graphic design—SoftFacade](http://www.softfacade.com/iphone/index.html) These guys do custom user interface and icon design for any platform.  They have some very slick iPhone mockups.
+
+* [Showcase Of Beautiful Textured Web Designs](http://www.smashingmagazine.com/2009/10/29/showcase-of-beautiful-textured-web-designs/)
+
+* [Haystack : Web designers in Chicago, IL](http://haystack.com/chicago)
+        
+* [Apple's 2009 ad budget: Half a billion](http://brainstormtech.blogs.fortune.cnn.com/2009/10/28/apples-2009-ad-budget-half-a-billion/) Total amount is less than 2% of revenues
