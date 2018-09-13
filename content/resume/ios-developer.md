@@ -1,6 +1,6 @@
 # As an iOS Developer
 
-I prefer [Swift](https://swift.org) over [Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html). I recently converted [AccelaStudy](http://www.renkara.com/accelastudy) and associated internal frameworks from Objective-C to Swift, about 30,000 lines of code. The new Swift code is easier to extend and debug; I'm glad I ported it over. It takes forever to compile, though.
+I prefer [Swift](https://swift.org) over [Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html). I recently converted [AccelaStudy](https://www.accelastudy.com) and associated internal frameworks from Objective-C to Swift, about 30,000 lines of code. The new Swift code is easier to extend and debug; I'm glad I ported it over. It takes forever to compile, though.
 
 Swift's [guard statements](https://thatthinginswift.com/guard-statement-swift/) are the new [assertion](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/) and I use them all over the place. I love Swift's support of [map and reduce](https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/). I miss [C# async and await](https://docs.microsoft.com/en-us/dotnet/csharp/async) so I use [then](https://github.com/freshOS/then) which combines promises with async/await.
 
@@ -25,5 +25,3 @@ I use [TextExpander](https://textexpander.com) to store snippets of code which I
 I have some talent as a graphics designer and use a combination of [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) and [Photoshop](https://www.adobe.com/products/photoshop.html) to create screen mockups, icons, and other app-related artwork. I have been an [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) subscriber since it became available. I use [Asset Catalog Creator Pro](https://itunes.apple.com/us/app/asset-catalog-creator-pro/id809625456?mt=12) to quickly turn icon source artwork into the [various icon sizes](https://developer.apple.com/library/content/qa/qa1686/_index.html) required by the App Store.
 
 I create app demos and other animations using [Adobe After Effects](https://www.adobe.com/products/aftereffects.html).
-
-
