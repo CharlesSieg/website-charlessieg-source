@@ -1,7 +1,7 @@
 ---
 title: "Charles Sieg"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-subtitle: "I never lose. Either I win, or I learn." 
+subtitle: "I never lose. Either I win, or I learn."
 ---
 
 I am the founder and president of [Renkara Media Group](https://www.renkara.com). We build [AccelaStudy](https://www.accelastudy.com), an accelerated learning platform with millions of users.
