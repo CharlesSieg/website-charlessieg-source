@@ -19,3 +19,5 @@ phases:
       - echo Build completed on `date`
       - echo Copying to S3 bucket...
       - aws s3 sync --delete public/ s3://$BUCKET_NAME/ --cache-control max-age=60
+
+      
