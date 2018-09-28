@@ -1,5 +1,9 @@
 version: 0.2
 
+env:
+  variables:
+    BUCKET_NAME: "bucket"
+
 phases:
   install:
     commands:
@@ -14,4 +18,4 @@ phases:
     commands:
       - echo Build completed on `date`
       - echo Copying to S3 bucket...
-      - aws s3 sync --delete public/ s3://staging.charlessieg.com/ --cache-control max-age=60
+      - aws s3 sync --delete public/ s3://$BUCKET_NAME/ --cache-control max-age=60
