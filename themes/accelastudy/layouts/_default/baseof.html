@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/main.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:300,400">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+</head>
+
+<body>
+
+    {{ block "header" . }}{{ partial "page-header.html" . }}{{ end }}
+
+    {{ $featured_image := .Param "featured_image"}}
+    {{ if $featured_image }}
+    <section class="fdb-block fdb-viewport fp-dragging" style="background: linear-gradient(rgba(20,20,20, .6), rgba(20,20,20, .6)), center/cover no-repeat url(/images/{{ $featured_image }})"
+        data-block-type="call_to_action" data-id="10" draggable="true">
+        <div class="container h-100 d-flex align-items-center">
+            <div class="row w-100 justify-content-center align-self-center">
+                <div class="col col-md-8 text-center">
+                    <h1>{{ .Title }}</h1>
+                    <h2>{{ .Param "subtitle" }}</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    {{ else }}
+    <section class="fdb-block fp-active" data-block-type="contents" data-id="3" draggable="true">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col col-md-8 text-center">
+                    <h1>{{ .Title }}</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    {{ end }}
+
+
+    <section class="fdb-block" data-block-type="contents" data-id="4" draggable="true">
+        <div class="container">
+            <div class="row">
+                <div class="col text-left">
+                    {{ block "main" . }}{{ end }}
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {{ block "footer" . }}{{ partial "page-footer.html" . }}{{ end }}
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
