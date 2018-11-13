@@ -1,5 +1,5 @@
 ---
-title: "Charles Sieg - Production"
+title: "Charles Sieg"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 subtitle: "I never lose. Either I win, or I learn."
 ---
