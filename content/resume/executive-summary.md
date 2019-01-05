@@ -10,26 +10,12 @@ With solid experience in the dual roles of developer and DevOps engineer, I am a
 
 I have expert-level knowledge and experience with Objective-C, Swift, Node.js, Python, CloudFormation, and Terraform. I have strong experience with many other [skills and tools](/resume/skills).
 
-I am AWS Certified as [Solutions Architect][4], [Developer][5], and [SysOps Administrator][6]. All of my certifications are [verifiable online](/resume/certifications).
+I am AWS Certified as [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/), [Developer](https://aws.amazon.com/certification/certified-developer-associate/), and [SysOps Administrator](https://aws.amazon.com/certification/certified-sysops-admin-associate/). All of my certifications are [verifiable online](/resume/certifications).
 
-[6]: https://aws.amazon.com/certification/certified-sysops-admin-associate/
-[5]: https://aws.amazon.com/certification/certified-developer-associate/
-[4]: https://aws.amazon.com/certification/certified-solutions-architect-associate/
+I have delivered over 300 applications to the iOS App Store. Five of my applications were available in the App Store when it opened in July 2008. One of my apps - [AccelaStudy](https://www.accelastudy.com) - has over 12 million downloads and almost 200,000 active cloud users. AccelaStudy was featured in an [Apple television commerical](http://v.youku.com/v_show/id_XMzYzMDk3MDc2.html?from=y1.2-1-105.3.5-1.1-1-1-4) in China (at 0:04). My application iPhraseBook was selected by Apple as [iPad App of the Week](https://static1.squarespace.com/static/54750c3be4b00c9dcf5688c8/t/558949ede4b0403b40d9a771/1435060717921/?format=500w).
 
-I have delivered over 300 applications to the iOS App Store. Five of my applications were available in the App Store when it opened in July 2008. One of my apps - [AccelaStudy][8] - has over 12 million downloads and almost 200,000 active cloud users. AccelaStudy was featured in an [Apple television commerical][9] in China (at 0:04). My application iPhraseBook was selected by Apple as [iPad App of the Week][10].
+Years ago, one of the Windows products I created - UDC Care - was a [featured case study](/resume/publications) in Paradox Informant magazine.
 
-[9]: http://v.youku.com/v_show/id_XMzYzMDk3MDc2.html?from=y1.2-1-105.3.5-1.1-1-1-4
-[10]: https://static1.squarespace.com/static/54750c3be4b00c9dcf5688c8/t/558949ede4b0403b40d9a771/1435060717921/?format=500w
-[8]: https://www.accelastudy.com
+I have a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu).
 
-Years ago, one of the Windows products I created - UDC Care - was a [featured case study][11] in Paradox Informant magazine.
-
-[11]: /resume/publications
-
-I have a Bachelor of Science degree in Computer Science from [DePaul University][12].
-
-[12]: https://www.depaul.edu
-
-Over my long career, I've acquired experience and certifications in many ["legacy" technologies][13].
-
-[13]: /resume/legacy-experience
+Over my long career, I've acquired experience and certifications in many ["legacy" technologies](/resume/legacy-experience).

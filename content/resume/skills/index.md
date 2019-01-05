@@ -1,6 +1,4 @@
-[Back to my Résumé][0]
-
-[0]: /long-cv
+[Back to my Résumé](/resume)
 
 # Skills
 

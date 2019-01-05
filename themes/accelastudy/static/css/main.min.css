@@ -102,10 +102,9 @@
 }
 
 .fdb-block {
-    font-family: 'Fira Sans';
+    font-family: 'Droid Serif', serif;
     font-style: normal;
     font-weight: 400;
-    src: local('Fira Sans Regular'), local('FiraSans-Regular'), url('https://fonts.gstatic.com/s/firasans/v8/va9E4kDNxMZdWfMOD5Vvk4jN.woff') format('woff'), url('https://fonts.gstatic.com/s/firasans/v8/va9E4kDNxMZdWfMOD5Vvk4jL.woff2') format('woff2');
 
     font-size: 16px;
     line-height: 1.5;
@@ -119,6 +118,16 @@
     background-position: center;
     overflow: hidden;
     background-color: #fff
+}
+
+.fdb-block h1,
+.fdb-block h2,
+.fdb-block h3,
+.fdb-block h4,
+.fdb-block h5,
+.fdb-block h6 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
 }
 
 .fdb-block.fdb-viewport {
@@ -154,7 +163,7 @@
 .fdb-block h1 {
     font-size: 2.75rem;
     margin-bottom: .5em;
-    margin-top: .3em;
+    margin-top: 2.5em;
     font-weight: 400
 }
 
@@ -162,7 +171,7 @@
 .fdb-block h2 {
     font-size: 2rem;
     margin-bottom: .5em;
-    margin-top: .3em;
+    margin-top: 1.5em;
     font-weight: 400
 }
 
@@ -397,11 +406,6 @@ table tr.no-border th {
 
 /*# sourceMappingURL=froala_blocks.min.css.map */
 
-
-.fdb-block p,
-.fdb-block li {
-    font-family: Raleway, serif
-}
 
 .fdb-block.fdb-viewport {
     color: #ffffff;
