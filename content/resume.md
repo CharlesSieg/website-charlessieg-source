@@ -1,5 +1,5 @@
 ---
-title: "Résumé"
+title: R&#233;sum&#233;
 subtitle: "A description of the resume."
 featured_image: ''
 ---

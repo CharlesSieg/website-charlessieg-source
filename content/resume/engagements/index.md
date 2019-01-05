@@ -1,9 +1,6 @@
-[Back to my Résumé][0]
+[Back to my Résumé](/resume)
 
 Engagements listed for generically-named clients, i.e. Energy Client, were performed under NDA and the engagement description is based solely on publically available statements.
-
-[0]: /long-cv
-
 
 # Renkara Media Group
 
@@ -329,6 +326,7 @@ My responsibilities as a _web developer_ and _SQL programmer_ for the various Ar
 PROJECT MANAGER, ARCHITECT
 
 ## Carlson Wagonlit Travel – Digital Board Strategy
+
 ### Jan 2000 – Mar 2000
 
 Carlson Wagonlit Travel (CWT) hired Proxicom to help it create a digital strategy for competing against Expedia, Travelocity, American Express, and others.
@@ -343,6 +341,7 @@ My responsibilities as the _project manager_ and _technical lead_ were as follow
 * Team size was 14 strategists, creatives, and developers
 
 ## General Motors Corporation – gmbuypower.com
+
 ### Sept 1999 – Jan 2000
 
 General Motors Corporation (GM) hired Proxicom as general project management and architecture contractors for their <a href="http://www.gmbuypower.com" target="_new">gmbuypower.com</a> site. I was one of 3 primary project managers for the effort. I was responsible for the site rollout in Mexico, Taiwan, Brazil, and Australia. The entire gmbuypower.com team was made up of over 300 contractors from 9 different vendors, including IBM Global Services, EDS, CompuWare, and others.
@@ -366,9 +365,11 @@ My responsibilities as a _project manager_ and _technical architect_ were as fol
 
 
 # USWeb/CKS
+
 PROJECT MANAGER, ARCHITECT
 
 ## McDonald’s Corporation – Corporate Intranet (Archie)
+
 ### May 1999 - September 1999
 
 
@@ -398,14 +399,17 @@ I was the project manager, lead architect, and LotusScript and ASP coder. The sy
 
 
 # New Resources Corporation
+
 PRACTICE MANAGER, ECOMMERCE & GROUPWARE
 
 ## L.R. Nelson – Peoria, IL
+
 ### Feb 1999 – Mar 1999
 
 Designed and constructed a marketing presentation printing application. Users selected presentation inserts and the application created a customized proposal / presentation for customers. The entire application was hosted on the web.
 
 ## Morton Metal Craft Corporation (MMCC) – Morton, IL
+
 ### Jan 1999 – Feb 1999
 
 Designed and constructed a Lotus Notes database for tracking engineering programming requests.
@@ -413,21 +417,25 @@ Designed and constructed a Lotus Notes database for tracking engineering program
 Duplicated functionality of an existing Visual Basic application in the Lotus Notes database.
 
 ## RLI – Peoria, IL
+
 ### Dec 1998 – Jan 1999
 
 Converted an existing knowledge repository into a Lotus Domino hosted web-based knowledge repository
 
 ## Caterpillar – Peoria, IL
+
 ### Oct 1998 – Dec 1998
 
 Designed and constructed an updated version of the Parts Maintenance Planner application which tracked and estimated machine maintenance schedules and costs.
 
 ## Caterpillar – Peoria, IL
+
 ### Oct 1998 – Nov 1998
 
 Designed and constructed an application used for tracking and distributing career goals and progress.
 
 ## Internal Project – Rolling Meadows, IL
+
 ### May 1998 – Nov 1998
 
 Designed and constructed a knowledge repository for internal use. The repository held documents as attachments in the Lotus Notes databases but also used SQL to access financial data held in Platinum and Proamics application databases. All content was delivered dynamically to a browser-based client.
@@ -439,11 +447,13 @@ Designed and constructed a knowledge repository for internal use. The repository
 PROJECT MANAGER
 
 ## Caterpillar – Peoria, IL
+
 ### Feb 1998 – Apr 1998
 
 Designed and constructed a web-based marketing materials catalog. The existing paper-based catalog had approximately 2,000 items available for dealers to order. An Adobe Acrobat document was created for each item in the marketing materials catalog and then placed as an attachment in a document in the online catalog. A comprehensive search engine was created to allow users to easily search the online catalog.
 
 ## Internal Project – Peoria, IL
+
 ### Jan 1998 – Feb 1998
 
 Designed and constructed internal application for tracking differences in actual and estimated consultant billings.

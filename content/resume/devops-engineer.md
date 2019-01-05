@@ -16,26 +16,16 @@ I'm looking into using [AWS Elastic Container Service](https://aws.amazon.com/ec
 
 Sandbox, development, and QA environments use very small MySQL instances in [RDS](https://aws.amazon.com/rds/) or local instances of MySQL. Production uses a highly-available [Aurora](https://aws.amazon.com/rds/aurora/) cluster spread across multiple Availability Zones (AZs). I used to use [DynamoDB](https://aws.amazon.com/dynamodb/) for writing events and [triggering Lambda functions](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.Lambda.html) but found Aurora to be more cost-effective in production and Aurora now also has the ability to [trigger Lambda functions](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/AuroraMySQL.Integrating.Lambda.html). I'm not the only one to [notice how cost-effective Aurora is](https://abhishek-tiwari.com/dynamodb-or-aurora/).
 
-I'm also comfortable setting up a [Continuous Integration / Continuous Deployment](https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd) (CI/CD) workflow with [Jenkins][1], [CircleCI][2], or CodeBuild using GitHub or CodeCommit triggers. [AWS CodePipeline](https://aws.amazon.com/codepipeline/) pulls the code from CodeCommit and invokes [AWS CodeBuild](https://aws.amazon.com/codebuild/) to build the app, run tests, and integrate with Packer to create an AMI. [CodeDeploy](https://aws.amazon.com/codedeploy/) can then apply a CloudFormation or Terraform template to spin up an EC2 instance with the AMI.
+I'm also comfortable setting up a [Continuous Integration / Continuous Deployment](https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd) (CI/CD) workflow with [Jenkins](https://jenkins.io), [CircleCI](https://circleci.com), or CodeBuild using GitHub or CodeCommit triggers. [AWS CodePipeline](https://aws.amazon.com/codepipeline/) pulls the code from CodeCommit and invokes [AWS CodeBuild](https://aws.amazon.com/codebuild/) to build the app, run tests, and integrate with Packer to create an AMI. [CodeDeploy](https://aws.amazon.com/codedeploy/) can then apply a CloudFormation or Terraform template to spin up an EC2 instance with the AMI.
 
-[1]: https://jenkins.io
-[2]: https://circleci.com
+I make liberal use of [CloudWatch alarms](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html) along with [SNS notifications](https://aws.amazon.com/sns/) to monitor for problems in production. I've recently been introduced to [New Relic](https://newrelic.com) and am finding it very helpful analyzing metrics and identifying problematic areas.
 
-I make liberal use of [CloudWatch alarms](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html) along with [SNS notifications](https://aws.amazon.com/sns/) to monitor for problems in production. I've recently been introduced to [New Relic][3] and am finding it very helpful analyzing metrics and identifying problematic areas.
+Logging is always a challenge in production environments. CloudWatch logs do the job for the most part but I've started working with 3rd party tools like [PaperTrail](https://papertrailapp.com) for real-time offsite logging and [Logstash](https://www.elastic.co/products/logstash) and [Elasticsearch](https://www.elastic.co/products/elasticsearch) for log analysis.
 
-Logging is always a challenge in production environments. CloudWatch logs do the job for the most part but I've started working with 3rd party tools like [PaperTrail][4] for real-time offsite logging and [Logstash][5] and [Elasticsearch][6] for log analysis.
-
-[5]: https://www.elastic.co/products/logstash
-[6]: https://www.elastic.co/products/elasticsearch
-[4]: https://papertrailapp.com
-[3]: https://newrelic.com
-
-I've worked with [VictorOps][7] to manage on-call schedules and integrate with other services like Slack. I've tinkered a bit with it's *transmogrification* feature to make AWS alarms more readable and actionable.
+I've worked with [VictorOps](https://victorops.com) to manage on-call schedules and integrate with other services like Slack. I've tinkered a bit with it's *transmogrification* feature to make AWS alarms more readable and actionable.
 
 I use [CloudTrail](https://aws.amazon.com/cloudtrail/) to track user activity and API calls within the environment. It also comes in handy when you need to roll something back to a previous value that no one wrote down before changing it.
 
 I proactively monitor and analyze costs with [Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) to find opportunities to reduce AWS expenses. I use [spot instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html) whenever possible for batch jobs, CI/CD, and other intermittent activities.
-
-[7]: https://victorops.com
 
 I use [Lucidchart](https://www.lucidchart.com/pages/aws-architecture-import) to create network diagrams of my AWS infrastructure and [Cloudcraft](https://cloudcraft.co) to create cool 3D diagrams of the entire infrastructure.
