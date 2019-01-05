@@ -102,7 +102,11 @@
 }
 
 .fdb-block {
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Fira Sans Regular'), local('FiraSans-Regular'), url('https://fonts.gstatic.com/s/firasans/v8/va9E4kDNxMZdWfMOD5Vvk4jN.woff') format('woff'), url('https://fonts.gstatic.com/s/firasans/v8/va9E4kDNxMZdWfMOD5Vvk4jL.woff2') format('woff2');
+
     font-size: 16px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
@@ -198,10 +202,17 @@
     font-weight: 300
 }
 
+.fdb-block hr {
+    margin: 3.1em auto 3.1em auto;
+}
+
 .fdb-block img {
     border-radius: 4px;
     -moz-border-radius: 4px;
-    -webkit-border-radius: 4px
+    -webkit-border-radius: 4px;
+    display: block;
+    margin: 3.1em auto 3.1em auto;
+    width: 60%;
 }
 
 .fdb-block img+h3,
