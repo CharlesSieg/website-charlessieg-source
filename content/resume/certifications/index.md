@@ -1,3 +1,8 @@
+---
+title: "Certifications"
+featured_image: background.png
+---
+
 [Back to my Résumé](/resume)
 
 # Completed Certifications
@@ -16,15 +21,15 @@ VALIDATION NUMBER: HTYQ47S1LJQQ1W92
 
 Issued January 19, 2018. Expires January 20, 2020
 
+## SysOps Administrator (Associate)
+
+Successfully completed, certificate pending.
+
 ## Cloud Practitioner
 
 VALIDATION NUMBER: XH043WD2KMV41N5
 
 Issued December 29, 2017. Expires December 30, 2019
-
-## SysOps Administrator (Associate)
-
-Successfully completed, certificate pending.
 
 # Certifications Expected
 

@@ -1,6 +1,6 @@
 ---
 title: "Charles Sieg"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: background.png
 subtitle: "I never lose. Either I win, or I learn."
 ---
 

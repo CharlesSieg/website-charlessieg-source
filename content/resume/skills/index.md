@@ -1,3 +1,8 @@
+---
+title: "Skills"
+featured_image: background.png
+---
+
 [Back to my Résumé](/resume)
 
 # Skills
