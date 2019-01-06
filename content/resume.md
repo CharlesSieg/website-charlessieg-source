@@ -1,7 +1,7 @@
 ---
-title: R&#233;sum&#233;
+title: Résumé
 subtitle: "A description of the resume."
-featured_image: ''
+featured_image: 911-S.jpeg
 ---
 
 {{< import path="/resume/executive-summary.md" >}}
