@@ -3,7 +3,7 @@ title: "Skills"
 featured_image: background.png
 ---
 
-[Back to my Résumé](/resume)
+[Back to my Resume](/resume)
 
 # Skills
 

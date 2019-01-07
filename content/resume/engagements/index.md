@@ -3,7 +3,7 @@ title: "Engagements"
 featured_image: background.png
 ---
 
-[Back to my Résumé](/resume)
+[Back to my Resume](/resume)
 
 Engagements listed for generically-named clients, i.e. Energy Client, were performed under NDA and the engagement description is based solely on publically available statements.
 
@@ -35,13 +35,13 @@ As both programmer and architect, I served as part of a large team to design, bu
 
 ### 2011 - 2015
 
-Designed and constructed an award-winning iPad application to assist client in realtime energy pricing. Application is heavily integrated with backend web service APIs. 
+Designed and constructed an award-winning iPad application to assist client in realtime energy pricing. Application is heavily integrated with backend web service APIs.
 
 ## Pharmaceutical Client - iPad and iPhone Application
 
 ### 2011 - 2014
 
-Designed and constructed an iPad application to deliver client's product catalog in an innovative new way. 
+Designed and constructed an iPad application to deliver client's product catalog in an innovative new way.
 
 ## Multiple Media Clients - iPhone Applications
 

@@ -3,7 +3,7 @@ title: "Legacy Experience"
 featured_image: background.png
 ---
 
-[Back to my Résumé](/resume)
+[Back to my Resume](/resume)
 
 ## Expired Certifications
 

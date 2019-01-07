@@ -3,7 +3,7 @@ title: "Products Created"
 featured_image: background.png
 ---
 
-[Back to my Résumé](/resume)
+[Back to my Resume](/resume)
 
 I started Renkara Media Group in 2008. Through Renkara, I have delivered more than 300 applications to the iOS App Store. These are some of those products.
 
