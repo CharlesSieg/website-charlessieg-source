@@ -1,7 +1,8 @@
 ---
-title: "R\xe9suméx"
+title: "R\xe9sumé"
 featured_image: background.png
 layout: "single"
+markup: mmark
 ---
 
 {{< import path="/resume/executive-summary.md" >}}
