@@ -4,14 +4,14 @@ env:
   variables:
     BUCKET_NAME: "charlessieg.com"
     CDN_DISTRIBUTION_ID: "E1KLEWXZR70ZSL"
-    FOLDER_NAME: "dev"
+    FOLDER_NAME: "stage"
 
 phases:
   install:
     commands:
       - pip install Pygments
-      - wget https://github.com/gohugoio/hugo/releases/download/v0.47.1/hugo_0.47.1_Linux-64bit.deb
-      - dpkg -i hugo_0.47.1_Linux-64bit.deb
+      - wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.deb
+      - dpkg -i hugo_0.53_Linux-64bit.deb
   build:
     commands:
       - echo Build started on `date`

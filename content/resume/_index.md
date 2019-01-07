@@ -1,6 +1,7 @@
 ---
 title: "Résumé"
 featured_image: background.png
+layout: "single"
 ---
 
 {{< import path="/resume/executive-summary.md" >}}
