@@ -1,5 +1,5 @@
 ---
-title: Résumé
+title: "Résumé"
 featured_image: background.png
 ---
 
