@@ -8,7 +8,7 @@ I am the founder and president of [Renkara Media Group](https://www.renkara.com)
 
 I provide consulting services to a wide variety of Fortune 1000 clients. I am an expert in iOS development, [Node.js](https://nodejs.org/en/) development, and automating the deployment of scalable and highly-available infrastructure, primarily in the AWS cloud. I am an [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
-My resume can be found [here](/resume). Copies are available in PDF and Microsoft Word format.
+My résumé can be found [here](/resume). Copies are available in PDF and Microsoft Word format.
 
 I am a strong proponent of remote work, especially in the Information Technology field and am the editor of the [Remote Technologist publication on Medium](https://medium.com/remote-technologist). I've worked remotely exclusively since 2010.
 
