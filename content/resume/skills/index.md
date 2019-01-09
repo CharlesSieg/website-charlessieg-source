@@ -3,7 +3,7 @@ title: "Skills"
 featured_image: background.png
 ---
 
-[Back to my Resume](/resume)
+[Back to my Résumé](/resume)
 
 # Skills
 
@@ -136,4 +136,3 @@ Expert use of CloudFormation and Terraform to automate the deployment of AWS inf
 ### Defect Management
 
 * FogBugz
-

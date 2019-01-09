@@ -3,7 +3,7 @@ title: "Certifications"
 featured_image: background.png
 ---
 
-[Back to my Resume](/resume)
+[Back to my Résumé](/resume)
 
 # Completed Certifications
 
@@ -48,4 +48,3 @@ Planned for Summer 2019.
 ## Big Data (Specialty)
 
 Planned for Summer 2019.
-
