@@ -4,7 +4,7 @@ featured_image: background.png
 subtitle: "I never lose. Either I win, or I learn."
 ---
 
-Test
+Test2
 I am the founder and president of [Renkara Media Group](https://www.renkara.com). We build [AccelaStudy](https://www.accelastudy.com), an accelerated learning platform with millions of users.
 
 I provide consulting services to a wide variety of Fortune 1000 clients. I am an expert in iOS development, [Node.js](https://nodejs.org/en/) development, and automating the deployment of scalable and highly-available infrastructure, primarily in the AWS cloud. I am an [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
