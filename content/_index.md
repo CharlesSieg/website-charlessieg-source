@@ -3,7 +3,7 @@ title: "Charles Sieg"
 featured_image: background.png
 subtitle: "I never lose. Either I win, or I learn."
 ---
-
+2
 Test
 
 I am the founder and president of [Renkara Media Group](https://www.renkara.com). We build [AccelaStudy](https://www.accelastudy.com), an accelerated learning platform with millions of users.
