@@ -4,8 +4,8 @@ layout: post
 draft: false
 title: "Renkara Offices - Finished Stone and Retaining Walls"
 tags:
-- Office
-- Texas
+  - Office
+  - Texas
 ---
 
 The stone on the retaining wall and the offices is now complete. Turned out beautifully.
@@ -31,5 +31,3 @@ finished-wall-6
 The flagstone ledges turned out great. These were carved out of giant slabs of stone and hand-chipped along the sides to give it a natural appearance. Ahu will use her ledge for flowers whereas I plan to use mine to set a cooler of cold beverages.
 
 finished-wall-7
-
-

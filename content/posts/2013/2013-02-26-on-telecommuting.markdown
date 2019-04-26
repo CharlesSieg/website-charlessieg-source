@@ -2,10 +2,10 @@
 layout: post
 title: "On Telecommuting"
 date: 2013-02-26 18:36
-comments: false
-tags: 
-- Productivity
-published: true
+aliases:
+  - /blog/on-telecommuting
+tags:
+  - Productivity
 ---
 
 There was some [kerfluffle today about telecommuting](http://www.usatoday.com/story/tech/2013/02/26/yahoo-google-facebook-apple/1949007/).  Yahoo’s new CEO, [Marissa Mayer](http://en.wikipedia.org/wiki/Marissa_Mayer), has recently banned employees from working from home.  Apparently, she believes that working from home decreases productivity.

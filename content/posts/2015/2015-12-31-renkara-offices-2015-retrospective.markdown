@@ -3,9 +3,9 @@ date: 2015-12-31
 layout: post
 title: "Renkara Offices - 2015 Retrospective"
 tags:
-- Office
-- Texas
-- Retrospective
+  - Office
+  - Texas
+  - Retrospective
 ---
 
 As 2015 winds down, I wanted to look back on this project and see what went well, what didn't, and what is still left to do.

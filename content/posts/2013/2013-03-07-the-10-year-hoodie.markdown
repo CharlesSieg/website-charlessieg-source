@@ -2,10 +2,10 @@
 layout: post
 title: "The 10-Year Hoodie"
 date: 2013-03-07 16:22
-comments: false
+aliases:
+  - /blog/the-10-year-hoodie
 tags:
-- Best List
-published: true
+  - Best List
 ---
 
 I am backing a new project at Kickstarter called [“THE 10-YEAR HOODIE: Built for Life, Backed for a Decade!”](http://kck.st/12xr2Tp)  The company making the hoodie is called [Flint & Tender](http://www.flintandtinderusa.com), an excellent American company that [makes all of its products in the United States](http://www.flintandtinderusa.com/pages/about-us).
