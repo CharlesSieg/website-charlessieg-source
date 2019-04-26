@@ -40,9 +40,9 @@ In 2015, we adopted a yellow lab puppy we named Bogey.
 
 I've taken the [Meyers-Briggs](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator) personality test many times and am, invariably, an [INTJ](https://en.wikipedia.org/wiki/INTJ), also known as the [Architect](https://www.16personalities.com/intj-personality) personality.
 
-My IQ has been formally estimated by the [Stanford-Binet] test several times to be between 150 and 165. In high school, my [Otis–Lennon School Ability Test](https://en.wikipedia.org/wiki/Otis–Lennon_School_Ability_Test) (OLSAT) score placed me in the 99.99% percentile and was used in my admission application to [Mensa](https://www.mensa.org).
+My IQ has been formally estimated by the [Stanford-Binet](https://en.wikipedia.org/wiki/Stanford–Binet_Intelligence_Scales) test several times to be between 150 and 165. In high school, my [Otis–Lennon School Ability Test](https://en.wikipedia.org/wiki/Otis–Lennon_School_Ability_Test) (OLSAT) score was in the 99.99% percentile and was used in my admission application to [Mensa](https://www.mensa.org).
 
-As an adult, I have been clinically assessed to have [low latent inhibition](https://en.wikipedia.org/wiki/Latent_inhibition#Low_latent_inhibition), which sounds like a bad thing but is actually [awesome](https://web.archive.org/web/20071129121745/http://www.nidsci.org/pdf/carson-peterson-higgins.pdf).
+As an adult, I have been clinically assessed to have [low latent inhibition](https://en.wikipedia.org/wiki/Latent_inhibition#Low_latent_inhibition), which sounds disturbing but is actually [advantageous](https://web.archive.org/web/20071129121745/http://www.nidsci.org/pdf/carson-peterson-higgins.pdf) and [really awesome](https://www.youtube.com/watch?v=Qz9T1X29640).
 
 ---
 
