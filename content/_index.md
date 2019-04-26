@@ -26,7 +26,7 @@ I'm currently considering enrolling at [Texas A&M University](https://www.tamu.e
 
 I grew up in a neighborhood called Sunset Lake outside of the town of [Carlock, Illinois](https://en.wikipedia.org/wiki/Carlock,_Illinois), population 400.
 
-I've lived in the Illinois cities of Bloomington, Normal, and Peoria. In 1999, I moved to Chicago. I lived in a condo at 600 South Dearborn for awhile. It is also known as the [Transportation Building](http://www.transportationbuilding.org/) and was the headquarters for [Eliot Ness and the Untouchables](https://en.wikipedia.org/wiki/Eliot_Ness) during Prohibition.
+I've lived in the Illinois cities of Bloomington, Normal, and Peoria. In 1999, I moved to Chicago. I lived in a condo at 600 South Dearborn for awhile. It is also known as the [Transportation Building](https://www.transportationbuilding.org/) and was the headquarters for [Eliot Ness and the Untouchables](https://en.wikipedia.org/wiki/Eliot_Ness) during Prohibition.
 
 I am very happily married to [Dr. Ahu Sieg](https://www.ahusieg.com). I proposed to Ahu on top of the Eiffel Tower in January 2001. We got [married on top of the Sears Tower in Chicago](https://www.flickr.com/photos/forkbender/sets/592400) on March 23rd, 2002 and went on an [epic honeymoon](https://www.flickr.com/photos/forkbender/collections/72157600249752594/).
 
@@ -50,21 +50,19 @@ I've been a [bodybuilder](/blog/my-life-as-a-bodybuilder), a [track cyclist](htt
 
 While I used to be an [avid snowboarder](https://www.flickr.com/photos/forkbender/247672935/in/album-72157594291351436/), I've lately become a skier and try to visit [Big Sky in Montana](/articles/big-sky) at least once a year.
 
-I was a [Red Cross-certified lifeguard](http://www.redcross.org/take-a-class/lifeguarding) at the [Four Seasons Club in Bloomington, Illinois](http://www.4seasons-club.com) during high school and college.
+I was a [Red Cross-certified lifeguard](https://www.redcross.org/take-a-class/lifeguarding) at the [Four Seasons Club in Bloomington, Illinois](https://www.4seasons-club.com) during high school and college.
 
-Although I completed the coursework, pool sessions, and open water session to become a PADI-certified [Rescue Diver](https://www.padi.com/padi-courses/rescue-diver-course), my certification paperwork was not filed due to a missing CPR certificate and so I have to retake the course. Until then, I have current PADI certifications in [Advanced Open Water](https://www.padi.com/padi-courses/advanced-open-water-diver-course) and [Deep Diving](https://www.padi.com/padi-courses/deep-diver). I received excellent instruction from [Midwest Diving Specialists in Normal, Illinois](https://www.midwest-diving.com). I am a member of the [Divers Alert Network (DAN)](http://www.diversalertnetwork.org).
+Although I completed the coursework, pool sessions, and open water session to become a PADI-certified [Rescue Diver](https://www.padi.com/padi-courses/rescue-diver-course), my certification paperwork was not filed due to a missing CPR certificate and so I have to retake the course. Until then, I have current PADI certifications in [Advanced Open Water](https://www.padi.com/padi-courses/advanced-open-water-diver-course) and [Deep Diving](https://www.padi.com/padi-courses/deep-diver). I received excellent instruction from [Midwest Diving Specialists in Normal, Illinois](https://www.midwest-diving.com). I am a member of the [Divers Alert Network (DAN)](https://www.diversalertnetwork.org).
 
-I am an autocross enthusiast and haved raced in a 2012 Porsche 911 S, a 2015 Porsche Boxster GTS, and am currently racing a 2013 Porsche 911 4S. I'm a member of the [Porsche Club of America - Mavericks Region](https://mav.pca.org) and I do autocross events with the [Equipe Rapide](http://www.autocross.com) sports car club in Dallas/Fort Worth.
+I am an autocross enthusiast and haved raced in a 2012 Porsche 911 S, a 2015 Porsche Boxster GTS, and am currently racing a 2013 Porsche 911 4S. I'm a member of the [Porsche Club of America - Mavericks Region](https://mav.pca.org) and I do autocross events with the [Equipe Rapide](https://www.autocross.com) sports car club in Dallas/Fort Worth.
 
-I'm training to race at the [Circuit of the Americas in Austin, Texas](http://www.circuitoftheamericas.com) and hope to one day do some hot laps on the [Nürburgring in Germany](http://www.nuerburgring.de/en/home.html). In preparation for that day, I am working towards the necessary 1,000 laps on [the virtual Nürburgring track in Forza 6 on Xbox One](https://forzamotorsport.net/en-us/games/fm6/tracks/nurburgring).
+I'm training to race at the [Circuit of the Americas in Austin, Texas](https://www.circuitoftheamericas.com) and hope to one day do some hot laps on the [Nürburgring in Germany](https://www.nuerburgring.de/en/home.html). In preparation for that day, I am working towards the necessary 1,000 laps on [the virtual Nürburgring track in Forza 6 on Xbox One](https://forzamotorsport.net/en-us/games/fm6/tracks/nurburgring).
 
 ---
 
 You can find me on [Facebook](https://www.facebook.com/charles.sieg), [Twitter](https://www.twitter.com/charlessieg), [Instagram](https://www.instagram.com/charlessieg), [Flickr](https://www.flickr.com/photos/forkbender/), [Pinterest](https://www.pinterest.com/charlessieg/), [LinkedIn](https://www.linkedin.com/in/charlessieg), and [Tumblr](https://charlessieg.tumblr.com).
 
-The most popular posts on my blog are [The 10-Year Hoodie](/blog/the-10-year-hoodie), [On Telecommuting](/blog/on-telecommuting), [My Life as a Bodybuilder](/blog/my-life-as-a-bodybuilder), and [Renkara Offices](/blog/renkara-offices).
-
-The [Christmas card](https://charlessieg.tumblr.com/image/105611200415) we had made with the boys a few years ago is still a favorite.
+The most popular posts on my blog are [The 10-Year Hoodie](/blog/the-10-year-hoodie), [On Telecommuting](/blog/on-telecommuting), [My Life as a Bodybuilder](/blog/my-life-as-a-bodybuilder), and [Renkara Offices](/blog/renkara-offices). The [Christmas card](https://charlessieg.tumblr.com/image/105611200415) we had made with the boys a few years ago is still a favorite.
 
 This website is stored in a Git repository, generated with Hugo, built with CodeBuild, copied to an S3 bucket, and is served by a CloudFront distribution in the AWS cloud.
 
