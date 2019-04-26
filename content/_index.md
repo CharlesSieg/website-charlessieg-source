@@ -12,15 +12,15 @@ My résumé can be found [here](/resume). Copies are available in PDF and Micros
 
 I am a strong proponent of remote work, especially in the Information Technology field and am the editor of the [Remote Technologist publication on Medium](https://medium.com/remote-technologist). I've worked remotely exclusively since 2010.
 
-I publish a newsletter of interesting articles, videos, and products called [The Weekly Edge](http://www.weeklyedge.com) on [Revue](https://www.getrevue.co). Alas, I'm so busy that it should really be called The Quarterly Edge or The Yearly Edge.
+I publish a newsletter of interesting articles, videos, and products called [The Weekly Edge](https://www.weeklyedge.com) on [Revue](https://www.getrevue.co). Alas, I'm so busy that it should really be called The Quarterly Edge or The Yearly Edge.
 
 I maintain GitHub repos for the [articles](https://github.com/CharlesSieg/articles) I write and a [collection of CloudFormation and Terraform scripts](https://github.com/CharlesSieg/aws-scripts) for automated provisioning of AWS infrastructure.
 
 ---
 
-I was an Eagle at [Carlock Elementary School](https://www.unit5.org/carlock) and a Python at [Parkside Junior High School](https://www.unit5.org/pjhs). I graduated from [University High School](http://www.uhigh.ilstu.edu). I attended [Illinois State University](https://illinoisstate.edu) for several years but graduated with a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu).
+I was an Eagle at [Carlock Elementary School](https://www.unit5.org/carlock) and a Python at [Parkside Junior High School](https://www.unit5.org/pjhs). I graduated from [University High School](https://www.uhigh.ilstu.edu). I attended [Illinois State University](https://illinoisstate.edu) for several years but graduated with a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu).
 
-I'm currently considering enrolling at [Texas A&M University](http://www.tamu.edu) to pursue a [graduate degree in Computer Science](http://engineering.tamu.edu/cse/academics/degrees/cs/mcs).
+I'm currently considering enrolling at [Texas A&M University](https://www.tamu.edu) to pursue a [graduate degree in Computer Science](https://engineering.tamu.edu/cse/academics/degrees/cs/mcs).
 
 ---
 
@@ -32,7 +32,7 @@ I am very happily married to [Dr. Ahu Sieg](https://www.ahusieg.com). I proposed
 
 Our son Karl was born in November, 2008. Our son Connor was born in April, 2010.
 
-Ahu and I and the boys used to live in [Inverness, Illinois](https://www.flickr.com/photos/forkbender/collections/72157600043304959/), a suburb of Chicago. We [moved to Texas](http://www.charlessieg.com/blog/life-in-dallas-so-far) in August 2014 and now live in a small town called Westlake. We moved to Westlake so our sons could attend [Westlake Academy](http://www.westlakeacademy.org), an [International Baccalaureate](http://www.ibo.org/) charter school that frequently ranks in the top 50 schools in the United States.
+Ahu and I and the boys used to live in [Inverness, Illinois](https://www.flickr.com/photos/forkbender/collections/72157600043304959/), a suburb of Chicago. We [moved to Texas](https://www.charlessieg.com/blog/life-in-dallas-so-far) in August 2014 and now live in a small town called Westlake. We moved to Westlake so our sons could attend [Westlake Academy](https://www.westlakeacademy.org), an [International Baccalaureate](https://www.ibo.org/) charter school that frequently ranks in the top 50 schools in the United States.
 
 In 2015, we adopted a yellow lab puppy we named Bogey.
 

@@ -2,6 +2,8 @@
 layout: post
 title: "Life in Dallas So Far"
 date: 2014-12-22
+aliases:
+    - /blog/life-in-dallas-so-far/
 tags:
 - Texas
 ---
