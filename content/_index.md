@@ -38,13 +38,17 @@ In 2015, we adopted a yellow lab puppy we named Bogey.
 
 ---
 
+I've taken the [Meyers-Briggs](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator) personality test many times and am, invariably, an [INTJ](https://en.wikipedia.org/wiki/INTJ), also known as the [Architect](https://www.16personalities.com/intj-personality) personality. My IQ has been formally estimated by the [Stanford-Binet] test several times to be between 150 and 165. In high school, my [Otis–Lennon School Ability Test](https://en.wikipedia.org/wiki/Otis–Lennon_School_Ability_Test) (OLSAT) score placed me in the 99.99% percentile and was used in my admission application to [Mensa](https://www.mensa.org). I have been clinically assessed to have [low latent inhibition](https://en.wikipedia.org/wiki/Latent_inhibition#Low_latent_inhibition), which sounds like a bad thing but is actually [awesome](https://web.archive.org/web/20071129121745/http://www.nidsci.org/pdf/carson-peterson-higgins.pdf).
+
+---
+
 I've been a [bodybuilder](/blog/my-life-as-a-bodybuilder), a [track cyclist](https://flic.kr/s/2UTe), a [triathlete](https://flic.kr/s/aHsm4vbQSM), a [rock climber](https://flic.kr/s/aHskxuRrm1), and an Olympic weightlifter. Now I do yoga and play in the mud some years at the [Tough Mudder](https://www.charlessieg.com/blog/tough-mudder-chicago-2015-obstacles-to-expect).
 
 While I used to be an [avid snowboarder](https://www.flickr.com/photos/forkbender/247672935/in/album-72157594291351436/), I've lately become a skier and try to visit [Big Sky in Montana](/articles/big-sky) at least once a year.
 
 I was a [Red Cross-certified lifeguard](http://www.redcross.org/take-a-class/lifeguarding) at the [Four Seasons Club in Bloomington, Illinois](http://www.4seasons-club.com) during high school and college.
 
-Although I completed the coursework, pool sessions, and open water session to become a PADI-certified [Rescue Diver](https://www.padi.com/padi-courses/rescue-diver-course), my certification paperwork was not filed 25 years ago due to a missing CPR certificate and so I have to retake the course. Until then, I have current PADI certifications in [Advanced Open Water](https://www.padi.com/padi-courses/advanced-open-water-diver-course) and [Deep Diving](https://www.padi.com/padi-courses/deep-diver). I received excellent instruction from [Midwest Diving Specialists in Normal, Illinois](https://www.midwest-diving.com). I am a member of the [Divers Alert Network (DAN)](http://www.diversalertnetwork.org).
+Although I completed the coursework, pool sessions, and open water session to become a PADI-certified [Rescue Diver](https://www.padi.com/padi-courses/rescue-diver-course), my certification paperwork was not filed due to a missing CPR certificate and so I have to retake the course. Until then, I have current PADI certifications in [Advanced Open Water](https://www.padi.com/padi-courses/advanced-open-water-diver-course) and [Deep Diving](https://www.padi.com/padi-courses/deep-diver). I received excellent instruction from [Midwest Diving Specialists in Normal, Illinois](https://www.midwest-diving.com). I am a member of the [Divers Alert Network (DAN)](http://www.diversalertnetwork.org).
 
 I am an autocross enthusiast and haved raced in a 2012 Porsche 911 S, a 2015 Porsche Boxster GTS, and am currently racing a 2013 Porsche 911 4S. I'm a member of the [Porsche Club of America - Mavericks Region](https://mav.pca.org) and I do autocross events with the [Equipe Rapide](http://www.autocross.com) sports car club in Dallas/Fort Worth.
 
