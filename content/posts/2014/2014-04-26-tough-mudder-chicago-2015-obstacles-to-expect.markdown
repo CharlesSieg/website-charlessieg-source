@@ -1,11 +1,12 @@
 ---
 date: '2015-04-28 12:00:00'
 layout: post
-slug: tough-mudder-chicago-2015-obstacles-to-expect
 draft: false
 title: "Tough Mudder Chicago 2015 - Obstacles to Expect"
+aliases:
+  - /blog/tough-mudder-chicago-2015-obstacles-to-expect
 tags:
-- Tough Mudder
+  - Tough Mudder
 ---
 
 Tough Mudder has revised a number of their standard obstacles and has introduced new ones which are very challenging and somewhat more difficult to train for. There is a greater emphasis on teamwork now as many of these new obstacles are simply not achievable without working together.

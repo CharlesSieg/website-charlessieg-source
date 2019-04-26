@@ -46,7 +46,7 @@ As an adult, I have been clinically assessed to have [low latent inhibition](htt
 
 ---
 
-I've been a [bodybuilder](/blog/my-life-as-a-bodybuilder), a [track cyclist](https://flic.kr/s/2UTe), a [triathlete](https://flic.kr/s/aHsm4vbQSM), a [rock climber](https://flic.kr/s/aHskxuRrm1), and an Olympic weightlifter. Now I do yoga and play in the mud some years at the [Tough Mudder](https://www.charlessieg.com/blog/tough-mudder-chicago-2015-obstacles-to-expect).
+I've been a [bodybuilder](/blog/my-life-as-a-bodybuilder), a [track cyclist](https://flic.kr/s/2UTe), a [triathlete](https://flic.kr/s/aHsm4vbQSM), a [rock climber](https://flic.kr/s/aHskxuRrm1), and an Olympic weightlifter. Now I do yoga and play in the mud some years at the [Tough Mudder](/blog/tough-mudder-chicago-2015-obstacles-to-expect).
 
 While I used to be an [avid snowboarder](https://www.flickr.com/photos/forkbender/247672935/in/album-72157594291351436/), I've lately become a skier and try to visit [Big Sky in Montana](/articles/big-sky) at least once a year.
 

@@ -2,14 +2,11 @@
 layout: post
 title: "My Life as a Bodybuilder"
 date: 2013-06-10 16:45
-comments: false
+aliases:
+  - /blog/my-life-as-a-bodybuilder
 tags:
-- Bodybuilding
-published: true
+  - Bodybuilding
 ---
-
-blog/charlessieg/drafts?d96a349c52fc4f68eea46a47ccb3d360
-
 
 I turned 40 last fall and it has now been 18 years since I last competed in bodybuilding.  Through friendships I made at that time with the amazing [UFE](http://www.ufeshows.com) fitness competitor [Melissa Hooper Francis](http://www.musclebling.com/MuscleBling/About_Me/About_Me.html) and her husband [Bryan Francis](http://francisphotography.zenfolio.com/about.html), I've been invited to be a judge at the [UFE Fury](http://ufeshows.com/0/?p=1734) event in Chicago in 2012 and 2013.  Naturally you would expect judges of such an event to have a fair amount of experience in the sport and, for those who don't know me, it's not immediately clear that I would have such experience.  So, for the benefit of anyone who might be interested, I've decided to tell the story of my life as a competitive bodybuilder.  It started earlier than you might imagine:
 
