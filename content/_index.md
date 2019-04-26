@@ -34,7 +34,7 @@ Our son Karl was born in November, 2008. Our son Connor was born in April, 2010.
 
 Ahu and I and the boys used to live in [Inverness, Illinois](https://www.flickr.com/photos/forkbender/collections/72157600043304959/), a suburb of Chicago. We [moved to Texas](/blog/life-in-dallas-so-far) in August 2014 and now live in a small town called Westlake. We moved to Westlake so our sons could attend [Westlake Academy](https://www.westlakeacademy.org), an [International Baccalaureate](https://www.ibo.org/) charter school that frequently ranks in the top 50 schools in the United States.
 
-In 2015, we adopted a yellow lab puppy we named Bogey.
+In 2015, we adopted a yellow lab puppy we named [Bogey](https://www.instagram.com/p/BtHp3CZh5ny/?utm_source=ig_web_copy_link).
 
 ---
 
@@ -60,8 +60,12 @@ I'm training to race at the [Circuit of the Americas in Austin, Texas](http://ww
 
 ---
 
-You can find me on [Facebook](https://www.facebook.com/charles.sieg), [Twitter](https://www.twitter.com/charlessieg), [Instagram](https://www.instagram.com/charlessieg), [Flickr](https://www.flickr.com/photos/forkbender/), [Pinterest](https://www.pinterest.com/charlessieg/), [LinkedIn](https://www.linkedin.com/in/charlessieg), and [Tumblr](https://www.randomsnapshot.com).
+You can find me on [Facebook](https://www.facebook.com/charles.sieg), [Twitter](https://www.twitter.com/charlessieg), [Instagram](https://www.instagram.com/charlessieg), [Flickr](https://www.flickr.com/photos/forkbender/), [Pinterest](https://www.pinterest.com/charlessieg/), [LinkedIn](https://www.linkedin.com/in/charlessieg), and [Tumblr](https://charlessieg.tumblr.com).
 
-The most popular posts on my blog are [The 10-Year Hoodie](/blog/2015/6/24/the-10-year-hoodie), [On Telecommuting](/blog/2015/6/24/on-telecommuting), [My Life as a Bodybuilder](/blog/my-life-as-a-bodybuilder), and [Renkara Offices](/renkara-offices).
+The most popular posts on my blog are [The 10-Year Hoodie](/blog/the-10-year-hoodie), [On Telecommuting](/blog/on-telecommuting), [My Life as a Bodybuilder](/blog/my-life-as-a-bodybuilder), and [Renkara Offices](/blog/renkara-offices).
+
+The [Christmas card](https://charlessieg.tumblr.com/image/105611200415) we had made with the boys a few years ago is still a favorite.
+
+This website is stored in a Git repository, generated with Hugo, built with CodeBuild, copied to an S3 bucket, and is served by a CloudFront distribution in the AWS cloud.
 
 The *"I never lose. Either I win, or I learn."* quote at the top of this page is from Nelson Mandela.
