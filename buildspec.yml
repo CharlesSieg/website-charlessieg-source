@@ -1,0 +1,24 @@
+version: 0.2
+
+env:
+  variables:
+    BUCKET_NAME: "bucket"
+    CDN_DISTRIBUTION_ID: "id"
+    FOLDER_NAME: "name"
+
+phases:
+  install:
+    commands:
+      - pip3 install Pygments
+      - wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.deb
+      - dpkg -i hugo_0.53_Linux-64bit.deb
+  build:
+    commands:
+      - echo Build started on `date`
+      - hugo
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo Copying to S3 bucket...
+      - aws s3 sync --delete public/ s3://$BUCKET_NAME/$FOLDER_NAME/ --cache-control max-age=86400
+      - aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
