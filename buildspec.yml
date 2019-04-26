@@ -20,5 +20,5 @@ phases:
     commands:
       - echo Build completed on `date`
       - echo Copying to S3 bucket...
-      - aws s3 sync --delete public/ s3://$BUCKET_NAME/$FOLDER_NAME/ --cache-control max-age=86400
+      - aws s3 sync --delete public/ s3://$BUCKET_NAME/$FOLDER_NAME/
       - aws cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"
