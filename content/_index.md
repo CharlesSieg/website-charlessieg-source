@@ -64,6 +64,6 @@ You can find me on [Facebook](https://www.facebook.com/charles.sieg), [Twitter](
 
 The most popular posts on my blog are [The 10-Year Hoodie](/blog/the-10-year-hoodie), [On Telecommuting](/blog/on-telecommuting), [My Life as a Bodybuilder](/blog/my-life-as-a-bodybuilder), and [Renkara Offices](/blog/renkara-offices). The [Christmas card](https://charlessieg.tumblr.com/image/105611200415) we had made with the boys a few years ago is still a favorite.
 
-This website is stored in a Git repository, generated with Hugo, built with CodeBuild, copied to an S3 bucket, and is served by a CloudFront distribution in the AWS cloud.
+This website is stored in a [Git repository](https://git-scm.com), generated with [Hugo](https://gohugo.io), built with [CodeBuild](https://aws.amazon.com/codebuild/), copied to an [S3 bucket](https://aws.amazon.com/s3/), and is served by a [CloudFront distribution](https://aws.amazon.com/cloudfront/) in the AWS cloud.
 
 The *"I never lose. Either I win, or I learn."* quote at the top of this page is from Nelson Mandela.
