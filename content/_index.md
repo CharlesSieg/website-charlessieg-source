@@ -22,7 +22,7 @@ I was an Eagle at [Carlock Elementary School](https://www.unit5.org/carlock) and
 
 I attended [Illinois State University](https://illinoisstate.edu) for several years but graduated with a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu). I was given permission to attend a number of graduate courses as electives and particularly enjoyed studies in [cryptology with Dr. Schaefer](https://www.cdm.depaul.edu/academics/pages/classinfo.aspx?Term=20162&ClassNbr=22966&fid=299338) and [distributed computing](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=006406).
 
-I'm currently considering enrolling at [Texas A&M University](https://www.tamu.edu) to pursue a [graduate degree in Computer Science](https://engineering.tamu.edu/cse/academics/degrees/cs/mcs).
+When I finish a few projects and free up some time I plan to enroll at [Texas A&M University](https://www.tamu.edu) to pursue a [graduate degree in Computer Science](https://engineering.tamu.edu/cse/academics/degrees/cs/mcs) focused on distributed computing in support of artificial intelligence tasks.
 
 ---
 
@@ -34,7 +34,9 @@ I am very happily married to [Dr. Ahu Sieg](https://www.ahusieg.com). I proposed
 
 Our son Karl was born in November, 2008. Our son Connor was born in April, 2010.
 
-Ahu and I and the boys used to live in [Inverness, Illinois](https://www.flickr.com/photos/forkbender/collections/72157600043304959/), a suburb of Chicago. We [moved to Texas](/blog/life-in-dallas-so-far) in August 2014 and now live in a small town called Westlake. We moved to Westlake so our sons could attend [Westlake Academy](https://www.westlakeacademy.org), an [International Baccalaureate](https://www.ibo.org/) charter school that frequently ranks in the top 50 schools in the United States.
+Ahu and I and the boys used to live in [Inverness, Illinois](https://www.flickr.com/photos/forkbender/collections/72157600043304959/), a suburb of Chicago. We [moved to Texas](/blog/life-in-dallas-so-far) in August 2014 and now live in a small town called [Westlake](https://www.westlake-tx.org). We moved to Westlake so our sons could attend [Westlake Academy](https://www.westlakeacademy.org), an [International Baccalaureate](https://www.ibo.org/) charter school that frequently ranks in the [top 50 schools](https://www.usnews.com/education/best-high-schools/texas/districts/westlake-academy-charter-school/westlake-academy-18505) in the United States.
+
+I am a [volunteer DAWG](https://wa-hoc.org/volunteer/) (Dads Assisting Westlake's Great Students) at the boys' school and assist in maing sure the morning PYP drop-off is safe and efficient.
 
 In 2015, we adopted a yellow lab puppy we named [Bogey](https://www.instagram.com/p/BtHp3CZh5ny/?utm_source=ig_web_copy_link).
 
