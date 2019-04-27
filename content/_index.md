@@ -18,7 +18,9 @@ I maintain GitHub repos for the [articles](https://github.com/CharlesSieg/articl
 
 ---
 
-I was an Eagle at [Carlock Elementary School](https://www.unit5.org/carlock) and a Python at [Parkside Junior High School](https://www.unit5.org/pjhs). I graduated from [University High School](https://www.uhigh.ilstu.edu). I attended [Illinois State University](https://illinoisstate.edu) for several years but graduated with a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu).
+I was an Eagle at [Carlock Elementary School](https://www.unit5.org/carlock) and a Python at [Parkside Junior High School](https://www.unit5.org/pjhs). Based on my school aptitude tests, I was invited to attend the [Illinois Mathematics and Science Academy](https://www.imsa.edu) (IMSA) but my parents persuaded me into attending and graduating from [University High School](https://www.uhigh.ilstu.edu). In retrospect, missing out on attending IMSA was a major mistake, IMHO.
+
+I attended [Illinois State University](https://illinoisstate.edu) for several years but graduated with a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu). I was given permission to attend a number of graduate courses as electives and particularly enjoyed studies in [cryptology with Dr. Schaefer](https://www.cdm.depaul.edu/academics/pages/classinfo.aspx?Term=20162&ClassNbr=22966&fid=299338) and [distributed computing](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=006406).
 
 I'm currently considering enrolling at [Texas A&M University](https://www.tamu.edu) to pursue a [graduate degree in Computer Science](https://engineering.tamu.edu/cse/academics/degrees/cs/mcs).
 
@@ -40,7 +42,7 @@ In 2015, we adopted a yellow lab puppy we named [Bogey](https://www.instagram.co
 
 I've taken the [Meyers-Briggs](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator) personality test many times and am, invariably, an [INTJ](https://en.wikipedia.org/wiki/INTJ), also known as the [Architect](https://www.16personalities.com/intj-personality) personality.
 
-My IQ has been formally estimated by the [Stanford-Binet](https://en.wikipedia.org/wiki/Stanford–Binet_Intelligence_Scales) test several times to be between 150 and 165. In high school, my [Otis–Lennon School Ability Test](https://en.wikipedia.org/wiki/Otis–Lennon_School_Ability_Test) (OLSAT) score was in the 99.99% percentile and was used in my admission application to [Mensa](https://www.mensa.org).
+My IQ has been formally estimated by the [Stanford-Binet](https://en.wikipedia.org/wiki/Stanford–Binet_Intelligence_Scales) test several times to be between 150 and 165. In high school, my [Otis–Lennon School Ability Test](https://en.wikipedia.org/wiki/Otis–Lennon_School_Ability_Test) (OLSAT) score was in the 99.99% percentile and was used for admission to [Mensa](https://www.mensa.org).
 
 As an adult, I have been clinically assessed as having [low latent inhibition](https://en.wikipedia.org/wiki/Latent_inhibition#Low_latent_inhibition), which sounds disturbing but is actually [advantageous](https://web.archive.org/web/20071129121745/http://www.nidsci.org/pdf/carson-peterson-higgins.pdf) and [pretty awesome](https://www.youtube.com/watch?v=Qz9T1X29640).
 
