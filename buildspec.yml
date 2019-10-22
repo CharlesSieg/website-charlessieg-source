@@ -21,6 +21,11 @@ phases:
 
       - wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.deb
       - dpkg -i hugo_0.53_Linux-64bit.deb
+
+      - echo Switching to CodeBuild role in other account...
+      - eval $(aws sts assume-role --role-arn arn:aws:iam::$TARGET_ACCOUNT_ID:role/codebuild-role --role-session-name codebuild-session | jq -r '.Credentials | @sh "export AWS_SESSION_TOKEN=\(.SessionToken)\nexport AWS_ACCESS_KEY_ID=\(.AccessKeyId)\nexport AWS_SECRET_ACCESS_KEY=\(.SecretAccessKey) "')
+      - echo Confirming new role...
+      - aws sts get-caller-identity
   build:
     commands:
       - echo Build started on `date`
