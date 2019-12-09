@@ -24,6 +24,8 @@ I attended [Illinois State University](https://illinoisstate.edu) for several ye
 
 When I finish a few projects and free up some time I plan to enroll at [Texas A&M University](https://www.tamu.edu) to pursue a [graduate degree in Computer Science](https://engineering.tamu.edu/cse/academics/degrees/cs/mcs) focused on distributed computing in support of accelerated machine learning.
 
+<!--
+
 ---
 
 I grew up in a neighborhood called Sunset Lake outside of the town of [Carlock, Illinois](https://en.wikipedia.org/wiki/Carlock,_Illinois), population 400.
@@ -39,6 +41,8 @@ Ahu and I and the boys used to live in [Inverness, Illinois](https://www.flickr.
 I am a [volunteer DAWG](https://wa-hoc.org/volunteer/) (Dads Assisting Westlake's Great Students) at the boys' school and assist in maing sure the morning PYP drop-off is safe and efficient.
 
 In 2015, we adopted a yellow Labrador Retriever puppy we named [Bogey](https://www.instagram.com/p/BtHp3CZh5ny/?utm_source=ig_web_copy_link).
+
+-->
 
 ---
 
