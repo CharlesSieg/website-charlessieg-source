@@ -35,16 +35,10 @@ Issued December 29, 2017. Expires December 30, 2019
 
 ## Solutions Architect (Professional)
 
-Expected January 2019.
-
 ## DevOps Engineer (Professional)
-
-Expected Febtuary 2019.
 
 ## Advanced Networking (Specialty)
 
-Planned for Summer 2019.
+## Security (Specialty)
 
-## Big Data (Specialty)
-
-Planned for Summer 2019.
+## Machine Learning (Specialty)
