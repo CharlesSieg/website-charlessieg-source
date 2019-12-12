@@ -9,6 +9,12 @@ featured_image: background.png
 
 I am currently plowing through all of the existing AWS certifications. All Associate-level certifications have been completed. Working on the Professional-level certifications now.
 
+## Solutions Architect (Professional)
+
+VALIDATION NUMBER: XKRHT84CNEQ11Q37
+
+Issued December 11, 2019. Expires December 11, 2022
+
 ## Solutions Architect (Associate)
 
 VALIDATION NUMBER: HGH4K0FC2FR4Q3WG
@@ -31,9 +37,7 @@ VALIDATION NUMBER: XH043WD2KMV41N5
 
 Issued December 29, 2017. Expires December 30, 2019
 
-# Certifications Expected
-
-## Solutions Architect (Professional)
+# Certifications Planned
 
 ## DevOps Engineer (Professional)
 
