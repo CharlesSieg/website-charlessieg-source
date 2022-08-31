@@ -12,27 +12,21 @@ My résumé can be found [here](/resume). Copies are available in PDF and Micros
 
 I am a strong proponent of remote work, especially in the Information Technology field and am the editor of the [Remote Technologist publication on Medium](https://medium.com/remote-technologist). I've worked remotely exclusively since 2010.
 
-I publish a newsletter of interesting articles, videos, and products called [The Weekly Edge](https://www.weeklyedge.com) on [Revue](https://www.getrevue.co). Alas, I'm so busy that it should really be called The Quarterly Edge or The Yearly Edge.
-
 I maintain GitHub repos for the [articles](https://github.com/CharlesSieg/articles) I write and a [collection of CloudFormation and Terraform scripts](https://github.com/CharlesSieg/aws-scripts) for automated provisioning of AWS infrastructure.
 
 ---
 
 I was an Eagle at [Carlock Elementary School](https://www.unit5.org/carlock) and a Python at [Parkside Junior High School](https://www.unit5.org/pjhs). Based on my school aptitude tests, I was invited to attend the [Illinois Mathematics and Science Academy](https://www.imsa.edu) (IMSA) but my parents persuaded me into attending and graduating from [University High School](https://www.uhigh.ilstu.edu). In retrospect, missing out on attending IMSA was a major mistake, IMHO.
 
-I attended [Illinois State University](https://illinoisstate.edu) for several years but graduated with a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu). I was given permission to attend a number of graduate courses as electives and particularly enjoyed studies in [cryptology with Dr. Schaefer](https://www.cdm.depaul.edu/academics/pages/classinfo.aspx?Term=20162&ClassNbr=22966&fid=299338) and [distributed computing](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=006406).
+I graduated with a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu). I was given permission to attend a number of graduate courses as electives and particularly enjoyed studies in [cryptology with Dr. Schaefer](https://www.cdm.depaul.edu/academics/pages/classinfo.aspx?Term=20162&ClassNbr=22966&fid=299338) and [distributed computing](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=006406).
 
 When I finish a few projects and free up some time I plan to enroll at [Texas A&M University](https://www.tamu.edu) to pursue a [graduate degree in Computer Science](https://engineering.tamu.edu/cse/academics/degrees/cs/mcs) focused on distributed computing in support of accelerated machine learning.
-
-<!--
 
 ---
 
 I grew up in a neighborhood called Sunset Lake outside of the town of [Carlock, Illinois](https://en.wikipedia.org/wiki/Carlock,_Illinois), population 400.
 
-I've lived in the Illinois cities of Bloomington, Normal, and Peoria. In 1999, I moved to Chicago. I lived in a condo at 600 South Dearborn for awhile. It is also known as the [Transportation Building](https://www.transportationbuilding.org/) and was the headquarters for [Eliot Ness and the Untouchables](https://en.wikipedia.org/wiki/Eliot_Ness) during Prohibition.
-
--->
+I've lived in the Illinois cities of Bloomington, Normal, and Peoria. In 1999, I moved to Chicago. I lived in a condo at 600 South Dearborn for awhile. It is also known as the [Transportation Building](https://www.transportationbuilding.org/) and was the headquarters for [Eliot Ness and the Untouchables](https://en.wikipedia.org/wiki/Eliot_Ness) during Prohibition. I became a Texan in 2014 and have lived in [Westlake](https://www.westlake-tx.org/), [Amarillo](https://www.amarillo.gov/), and now currently make my home on 3 acres in [Keller](https://www.cityofkeller.com/).
 
 ---
 
