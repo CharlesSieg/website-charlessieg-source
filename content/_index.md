@@ -6,13 +6,17 @@ subtitle: "I never lose. Either I win, or I learn."
 
 I am the founder and president of [Renkara Media Group](https://www.renkara.com). We build [AccelaStudy](https://www.accelastudy.com), an accelerated learning platform with millions of users.
 
-I provide consulting services to a wide variety of Fortune 1000 clients. I am an expert in iOS development, [Node.js](https://nodejs.org/en/) development, and automating the deployment of scalable and highly-available infrastructure, primarily in the AWS cloud. I am an [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
+Through my company [Vantalect LLC](https://www.vantalect.com), I provide consulting services to a wide variety of [Fortune 1000 clients](/clients). I am an expert in iOS development, [Node.js](https://nodejs.org/en/) development, and automating the deployment of scalable and highly-available infrastructure, primarily in the AWS cloud. I am an [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
 My résumé can be found [here](/resume). Copies are available in PDF and Microsoft Word format.
 
-I am a strong proponent of remote work, especially in the Information Technology field and am the editor of the [Remote Technologist publication on Medium](https://medium.com/remote-technologist). I've worked remotely exclusively since 2010.
+I am a strong proponent of remote work, especially in the Information Technology field and am the editor of the [Remote Technologist publication on Medium](https://medium.com/remote-technologist). I've worked remotely exclusively since 2010. When the [COVID pandemic]() happened, it had zero effect on my work.
 
 I maintain GitHub repos for the [articles](https://github.com/CharlesSieg/articles) I write and a [collection of CloudFormation and Terraform scripts](https://github.com/CharlesSieg/aws-scripts) for automated provisioning of AWS infrastructure.
+
+---
+
+I have 
 
 ---
 
@@ -20,7 +24,7 @@ I was an Eagle at [Carlock Elementary School](https://www.unit5.org/carlock) and
 
 I graduated with a Bachelor of Science degree in Computer Science from [DePaul University](https://www.depaul.edu). I was given permission to attend a number of graduate courses as electives and particularly enjoyed studies in [cryptology with Dr. Schaefer](https://www.cdm.depaul.edu/academics/pages/classinfo.aspx?Term=20162&ClassNbr=22966&fid=299338) and [distributed computing](https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=006406).
 
-When I finish a few projects and free up some time I plan to enroll at [Texas A&M University](https://www.tamu.edu) to pursue a [graduate degree in Computer Science](https://engineering.tamu.edu/cse/academics/degrees/cs/mcs) focused on distributed computing in support of accelerated machine learning.
+When I finish a few projects and free up some time (yeah, right) I plan to enroll at [Texas A&M University](https://www.tamu.edu) to pursue a [graduate degree in Computer Science](https://engineering.tamu.edu/cse/academics/degrees/cs/mcs) focused on distributed computing and machine learning.
 
 ---
 
