@@ -38,15 +38,15 @@ As an adult, I have been clinically assessed as having [low latent inhibition](h
 
 ---
 
-I've been a [bodybuilder](/blog/my-life-as-a-bodybuilder), a [track cyclist](https://flic.kr/s/2UTe), a [triathlete](https://flic.kr/s/aHsm4vbQSM), a [rock climber](https://flic.kr/s/aHskxuRrm1), and an Olympic weightlifter. Now I do yoga and play in the mud some years at the [Tough Mudder](/blog/tough-mudder-chicago-2015-obstacles-to-expect).
+I've been a [bodybuilder](/blog/my-life-as-a-bodybuilder), a [track cyclist](https://flic.kr/s/2UTe), a [triathlete](https://flic.kr/s/aHsm4vbQSM), a [rock climber](https://flic.kr/s/aHskxuRrm1), and an Olympic weightlifter. I've come to appreciate the benefits of hot yoga and used to get crazy in the mud at the [Tough Mudder](/blog/tough-mudder-chicago-2015-obstacles-to-expect).
 
-While I used to be an [avid snowboarder](https://www.flickr.com/photos/forkbender/247672935/in/album-72157594291351436/), I've lately become a skier and try to visit [Big Sky in Montana](/articles/big-sky) at least once a year.
+I used to be an [avid snowboarder](https://www.flickr.com/photos/forkbender/247672935/in/album-72157594291351436/) and, later, a skier right up until I crashed hard and tore my right ACL in [Big Sky in Montana](/articles/big-sky). Now I see the slopes from the base area while my kids carve up the powder.
 
 I was a [Red Cross-certified lifeguard](https://www.redcross.org/take-a-class/lifeguarding) at the [Four Seasons Club in Bloomington, Illinois](https://www.4seasons-club.com) during high school and college.
 
 Although I completed the coursework, pool sessions, and open water session to become a PADI-certified [Rescue Diver](https://www.padi.com/padi-courses/rescue-diver-course), my certification paperwork was not filed due to a missing CPR certificate and so I have to retake the course. Until then, I have current PADI certifications in [Advanced Open Water](https://www.padi.com/padi-courses/advanced-open-water-diver-course) and [Deep Diving](https://www.padi.com/padi-courses/deep-diver). I received excellent instruction from [Midwest Diving Specialists in Normal, Illinois](https://www.midwest-diving.com). I am a member of the [Divers Alert Network (DAN)](https://www.diversalertnetwork.org).
 
-I am an autocross enthusiast and haved raced in a [2012 Porsche 911 S](https://flic.kr/p/2fBdhZJ), a [2015 Porsche Boxster GTS](https://flic.kr/p/255ijkB), and am currently racing a [2013 Porsche 911 4S Cabriolet](https://flic.kr/p/RVpyTg). I'm a member of the [Porsche Club of America - Mavericks Region](https://mav.pca.org) and I do autocross events with the [Equipe Rapide](https://www.autocross.com) sports car club in Dallas/Fort Worth.
+I am an autocross enthusiast and haved raced in a [2012 Porsche 911 S](https://flic.kr/p/2fBdhZJ), a [2015 Porsche Boxster GTS](https://flic.kr/p/255ijkB), and am currently racing a [2013 Porsche 911 4S Cabriolet](https://flic.kr/p/RVpyTg). I'm a member of the [Porsche Club of America - Mavericks Region](https://mav.pca.org) and I do autocross events with the [Equipe Rapide](https://www.autocross.com) sports car club in Dallas/Fort Worth. In 2022, I did the Triple Crown Rally with the Park Up Front club.
 
 I'm training to race at the [Circuit of the Americas in Austin, Texas](https://www.circuitoftheamericas.com) and hope to one day do some hot laps on the [Nürburgring in Germany](https://www.nuerburgring.de/en/home.html). In preparation for that day, I am working towards the necessary 1,000 laps on [the virtual Nürburgring track in Forza 6 on Xbox One](https://forzamotorsport.net/en-us/games/fm6/tracks/nurburgring).
 
@@ -54,7 +54,7 @@ I'm training to race at the [Circuit of the Americas in Austin, Texas](https://w
 
 You can find me on [Facebook](https://www.facebook.com/charles.sieg), [Twitter](https://www.twitter.com/charlessieg), [Instagram](https://www.instagram.com/charlessieg), [Flickr](https://www.flickr.com/photos/forkbender/), [Pinterest](https://www.pinterest.com/charlessieg/), [LinkedIn](https://www.linkedin.com/in/charlessieg), and [Tumblr](https://charlessieg.tumblr.com).
 
-The most popular posts on my blog are [The 10-Year Hoodie](/blog/the-10-year-hoodie), [On Telecommuting](/blog/on-telecommuting), [My Life as a Bodybuilder](/blog/my-life-as-a-bodybuilder), and [Renkara Offices](/blog/renkara-offices). The [Christmas card](https://charlessieg.tumblr.com/image/105611200415) we had made with the boys a few years ago is still a favorite.
+The most popular posts on my blog are [The 10-Year Hoodie](/blog/the-10-year-hoodie), [On Telecommuting](/blog/on-telecommuting), [My Life as a Bodybuilder](/blog/my-life-as-a-bodybuilder), and [Renkara Offices](/blog/renkara-offices). The [Christmas card](https://charlessieg.tumblr.com/image/105611200415) made with my sons a few years ago is still a favorite.
 
 This website is stored in a [Git repository](https://git-scm.com), generated with [Hugo](https://gohugo.io), built with [CodeBuild](https://aws.amazon.com/codebuild/), copied to an [S3 bucket](https://aws.amazon.com/s3/), and is served by a [CloudFront distribution](https://aws.amazon.com/cloudfront/) in the AWS cloud.
 
