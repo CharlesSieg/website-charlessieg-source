@@ -4,9 +4,11 @@ featured_image: background.png
 subtitle: "I never lose. Either I win, or I learn."
 ---
 
-I am the founder and president of [Renkara Media Group](https://www.renkara.com). We build [AccelaStudy](https://www.accelastudy.com), an accelerated learning platform with millions of users.
+foo
 
-Through my company [Vantalect LLC](https://www.vantalect.com), I provide consulting services to a wide variety of [Fortune 1000 clients](/clients/index.html). I am an expert in iOS development, [Node.js](https://nodejs.org/en/) development, and automating the deployment of scalable and highly-available infrastructure, primarily in the AWS cloud. I am an [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
+I am the founder and president of [Renkara Media Group](https://www.renkara.com). We build [AccelaStudy](https://www.accelastudy.com), an accelerated learning platform with millions of users. AccelaStudy was launched in 2008 and was one of the first 500 apps in Apple's new App Store.
+
+I have a consulting practice - [Vantalect LLC](https://www.vantalect.com) - through which I provide consulting services to a wide variety of [Fortune 1000 clients](/clients). I am an expert in iOS development and in building scalable and highly-available infrastructure, primarily in the AWS cloud. I am also highly proficient in [Node.js](https://nodejs.org/en/), Python, and Golang. I am an [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) and an [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/).
 
 My résumé can be found [here](/resume/index.html). Copies are available in PDF and Microsoft Word format.
 
